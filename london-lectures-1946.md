@@ -253,7 +253,9 @@ Description描述 of sensorial materials that help the child acquire clear impre
 
 Intellectual education is concerned with intellectual development. Moral道德的、精神的 and social education are concerned with the active积极的、主动的 life职业生活、有效寿命 of society. The child must be prepared for social life in the environment from birth. Adaptation and behaviour. Aninmals have a hereditary遗传的 power to adapt; man has to construct for himself. The animal body is the instrument of his psychic心灵的 functions. The function is created first; the body is at the service of the function. During the first two years, the child has to construct the adaptation to his group.
 
-## 人和超自然-Man and supernature超自然
+## 人和超自然-Man and supernature
+
+- supernature: 超自然
 
 人和环境以及他对环境的适应有关，这是一项极其重要的任务。适应环境是人的第一要务。每只动物都是一个中介，致力于环境中所有事物的和谐关系，生物不单单为自己工作，大自然有其自己的秩序，这其中一切都是相关的。生命都具有两面性：一面是有意识，一面是无意识，人类也是如此。人要准备好自己对环境的适应，这就必需通过双手的工作来改变环境。
 
@@ -265,7 +267,9 @@ Man is correlation with the environment and his adaptation to it. Cosmic宇宙�
 
 We can only help man if we did the child to be more adapt to the future of civilization. To help men creat society, certain肯定、某些 instincts本能、天性 are indispensable必不可少的, such as a primitive原始的 instinct to move, yet also the tendency to remain in one place. Other aspects include,language and work of the hands, joy and sentiments态度 for music, religion, love for the country, and moral codes章则. A group constructs a special character. Adaptation is performed not only on the geographical side, but also on the psychic side. We must look to the children as the means to bringing a change to humanity.
 
-## 新生儿的心理特点-The psychology心理学、心理特点 of the newborn
+## 新生儿的心理特点-The psychology of the newborn
+
+- psychology: 心理学, 心理特点
 
 正是儿童的活动建立了人的思想。儿童拥有精神胚胎。新生儿必须努力去适应外部世界。从出生便开始的教育需要身体和精神的双重“卫生”。人类的任务是把自然界的所有都提升到更高的高度蒙台梭利否定了精神分析学家的论点，即可怕的出生经历（出生恐惧）是某些异常情况的原因。正常的孩子会从一种独立走向另一种独立，独立是成长的现象，一开始我们看到的是身体的习得：比如牙齿、行走和语言。
 
@@ -283,7 +287,9 @@ We must give children spiritural as well as physical care. Spontaneous自发的�
 
 Small children can be very advanced超前的先进的. With more or less educated hands, they conquer征服 independence. They like to carry heavy things and do difficult things-they have an inner drive to exert运用、发挥 the maximum effort. Children have a tendency to imitate (to adapt to this world) but first there must be a preparation. There is a cycle of activity which brings coordinated movement. The child depends on the world to receive him, to give him what he needs to become happy, to have a good character, he wants the right environment and the right psychic treatment治疗.
 
-## 创造的能量-The energy能量、精神 of creation
+## 创造的能量-The energy of creation
+
+- energy: 能量, 精神
 
 生命的自然冲动迫使孩子的身体从一开始的被动变得活跃。首先孩子会移动他的头，然后是肩膀，然后是手。他必须尽可能多地做他当时能做的，我们必须给予他明智的鼓励。我们必须区分有意识的人格的意志和自然的意志，这种自然的意志是在有意识的人格的意志发展之前出现的。小脑是平衡的器官，活动的器官有助于智力。人必须工作才能发展，我们必须给予孩子合适的条件然后在必要的时候给予鼓励和帮助。
 
@@ -899,7 +905,9 @@ dignified. The children will feel a sense of security when they are
 near this superior person. The teacher must be everything that is
 perfect.
 
-## 社会凝聚力-A society by cohesion凝聚力
+## 社会凝聚力-A society by cohesion
+
+- cohesion: 凝聚力
 
 当专注的现象产生后，儿童就变成了新儿童。专注不仅治愈了缺陷，还释放出了一种新的能量，产生了很多活动的新的态度。在7岁左右，另一个新的社会组织开始了：一种轻轻松松就可以适应的社会环境。学校就是一个社会，3岁年龄段的孩子形成了一个有凝聚力的群体。如果孩子在这个年龄拥有发展的自由，成果就会在成年时体现出来。
 
@@ -959,5 +967,3 @@ children who are normalized can do all this. It is an effect of normality.
 You must see these new children in this new light. Inside man is a hidden nature and a hidden energy. The kingdom of childhood is the kingdom of heaven. If the child has the freedom to develop at this age, the result will become manifest at the adult stage. It is difficult to learn cohesion at the adult stage. Little children are disciplined if they have freedom.
 
 This is the law of the little child's world. They abolish law and, as in Christianity, only love remains. It is essential to understand this. We must observe and study this marvelous phenomenon.
-
-\end{document
