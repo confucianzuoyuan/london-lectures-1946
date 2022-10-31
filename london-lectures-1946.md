@@ -55,9 +55,10 @@ I think the mistake is that we limit our definition of men only to adults. In th
 
 这让我想起了希腊传说中的皮格马利翁，一位雕塑家制作了一座雕像，并且爱上了这座雕像。他的爱是如此伟大以至于他赋予了雕像生命。这就是我们现在看待人性的方式。我们在无意识中认为社会群体就像雕塑一样突然变成了人类。神话中雕塑的苏醒已经在电影中得到了描绘。人创造了一台机器，这台机器变得栩栩如生但是没有灵魂，它变成了一只怪兽。这是我们思想中另一个模糊的点，人类在成年时变成了一只残忍的、沉溺于不断屠杀的怪兽，但是怪物并不是突然间有了生命的，它不是在一瞬间、一小时、一周内甚至一年内被创造出来的。成年期的到来是多年辛苦工作和努力奋斗的结果。构建这个比电影中的怪兽更残忍的成年人的人，是那个凭借自己的生活美德，通过多年的时间建构自己的人格的儿童，最终它变成了一个男人或者女人。
 
-This reminds me of the Greek legend of Pygmalion. A sculptor made a statue and fell in love with him. So great was his love that it gave the statue life. This is how we now consider humanity. Unconsciously, we consider social groups as statues that have suddenly become human beings. But it is not so-they do not suddenly emerge as adult human beings or social groups all at once. Tales of statues coming to life have been depicted in films. Man creats a machine-the machine becomes animated-but without a soul, it becomes a monster. This is another obscure point in our minds. Humanity is a monster when adults-bloodthirsty, indulging in continuous slaughter. But the monster does not come to life all of a sudden. It is not created in one moment, in one hour, in one week,enen in one year. Adulthood is the result of years of toil and struggle. He who constructs this adult person, the adult that may become crueller than the monsters in the film, is the child who, by virtue of his own life and through years of constructing his own personality, becomes a man or a woman.
+This reminds me of the Greek legend of ==Pygmalion==. A ==sculptor== made a statue and fell in love with him. So great was his love that it gave the statue life. This is how we now consider humanity. Unconsciously, we consider social groups as statues that have suddenly become human beings. But it is not so-they do not suddenly emerge as adult human beings or social groups all at once. Tales of statues coming to life have been ==depicted== in films. Man creats a machine-the machine becomes ==animated==-but without a soul, it becomes a monster. This is another obscure point in our minds. Humanity is a monster when adults-==bloodthirsty==, ==indulging== in continuous ==slaughter==. But the monster does not come to life all of a sudden. It is not created in one moment, in one hour, in one week,enen in one year. Adulthood is the result of years of toil and struggle. He who constructs this adult person, the adult that may become crueller than the monsters in the film, is the child who, by virtue of his own life and through years of constructing his own personality, becomes a man or a woman.
 
 - Pygmalion: 皮格马利翁
+- sculptor: 雕塑家
 - depict: 描绘
 - animated: 活生生的, 栩栩如生的
 - obscure: 模糊的
@@ -117,11 +118,20 @@ Before we can give help, we must understand; we must follow the path from childh
 
 蒙台梭利讲述了如何运用科学来转变、丰富并发展人的个性，并发现了敏感期。教育者应该以孩子们所显露出来的隐藏的能量为引导。
 
-Montessori speaks about how to apply science to transform, enrich, and help develop a personality. Discovery of the sensitive periods. The educators should be guided by the revelations启示、揭露 of the children, his hidden energies.
+Montessori speaks about how to apply science to transform, enrich, and help develop a personality. Discovery of the sensitive periods. The educators should be guided by the ==revelations== of the children, his hidden energies.
+
+- revelations: 启示, 揭露
 
 当今世界存在很多教育方法，了解了所有方法就会发现它们是不同的。以我的名字命名的方法通常被视为众多方法中的一种，而正因为如此便产生了怀疑，并得出了混淆想法而非澄清想法的结论。因此，我想要向您展示我的方法有何不同。其他的方法是人们-天才的人们-赋有人类大爱的人们努力的结果。尽管这个方法以我的名字命名，但它不是一个发展了自己想法的伟大思想家努力的结果。我的方法建立在孩子本身的基础上，我们的研究起源于孩子。这个方法是通过跟随孩子和他的心理获得的。它是客观的，不像其他的方法一样主观。它始终都基于我们对观察的解释能力，这些观察源于孩子自己的那些现象。一个坚实的客观方法基于观察，观察事实，这就是为什么蒙台梭利方法与其他的方法完全不同，那些方法来自某些人得出的某些结论。
 
-Numerous methods of education exist today and it is different to become acquainted了解、知晓 with all of them. The method that bears具有、忍受 my name is generally seen as one of many, and because of this, doubts arise and conclusions结论 are reached which muddle弄乱 ideas rather than clarify them. Therefore, I would like to demonstrate to you how my method is different. Other methods are the result of the efforts of people-people of genius-people endowed with a great love of humanity. Although this method bears my name, it is not the result of the efforts of a great thinker who has developed his own ideas. My method is founded on the child himself. Our study has its origins in the child. The method has been achieved by following the child and his psychology. It is objective,not subjective as all the others are. It is always based on our ability to interpret解释、说明 our observations of those phenomena which originate in the child himself. A soundly坚实的 objective method is based on observation, the observation of facts, which is why the Montesorri Methods is entirely different from all the other methods, which came from certain people who arrived at certain theories.
+Numerous methods of education exist today and it is different to become ==acquainted== with all of them. The method that bears my name is generally seen as one of many, and because of this, doubts arise and conclusions are reached which muddle ideas rather than clarify them. Therefore, I would like to demonstrate to you how my method is different. Other methods are the result of the efforts of people-people of genius-people endowed with a great love of humanity. Although this method bears my name, it is not the result of the efforts of a great thinker who has developed his own ideas. My method is founded on the child himself. Our study has its origins in the child. The method has been achieved by following the child and his psychology. It is objective,not subjective as all the others are. It is always based on our ability to interpret our observations of those phenomena which originate in the child himself. A soundly objective method is based on observation, the observation of facts, which is why the Montesorri Methods is entirely different from all the other methods, which came from certain people who arrived at certain theories.
+
+- acquaint: 了解, 知晓
+- bear: 具有, 忍受
+- conclusion: 结论
+- muddle: 弄乱
+- interpret: 解释, 说明
+- soundly: 坚实的
 
 你可能会问，“如果一种方法是某人思考和解释出来的东西，那么为什么这被叫做‘蒙台梭利方法’呢？为什么它以你的名字命名呢？”好吧，我从来没有这样叫过。我给这本书起的标题描述了那些第一次实验的细节，它叫“在儿童之家应用于儿童的科学教育方法”，我在描述一种科学的教育方法。每种科学都有一种方法，我这种方法是应用于教育学的方法。当要把这个标题翻译成英文（或者更确切地说是美式英文）时，出版商说，天呐，这书名太可怕了，我们让它变得简单点吧。我们叫它‘蒙台梭利方法’吧。从那时起，所有的英文版本就都使用这个标题。
 
