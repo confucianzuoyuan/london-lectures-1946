@@ -71,7 +71,7 @@ This reminds me of the Greek legend of Pygmalion. A sculptor made a statue and f
 
 在面对战争问题时，我们必须考虑人被排除在社会之外的==某段时期==(作者的意思应该是儿童时期)，在这段时期他虽然没有任何权利，但他有可能已经在构建我们非常害怕的怪兽了。所以我们梦寐以求的人，那些过去的理想主义者所宣扬的人，可能会在童年时期被找到。显然，人的基础是在这一时期被奠定的，当一个婴儿出生时，并不是一个成人出生了。但婴儿是人的起源。
 
-In confronting遭遇、面对} the problem of war, we must consider man during the period when he was excluded from society, when he had no rights but when he may perhaps have been constructing the monster we so much dread可怕、担心}. Perhaps the man we dreamt of, the man of whom the idealists理想主义者} preached讲道} in the past, may be found in childhood. It is clear that the foundations of man are laid down during this period. When a baby is born, it is not a man that is born. Yet it is origins of man.
+In confronting遭遇、面对 the problem of war, we must consider man during the period when he was excluded from society, when he had no rights but when he may perhaps have been constructing the monster we so much dread可怕、担心. Perhaps the man we dreamt of, the man of whom the idealists理想主义者 preached讲道 in the past, may be found in childhood. It is clear that the foundations of man are laid down during this period. When a baby is born, it is not a man that is born. Yet it is origins of man.
 
 confront: 遭遇, 面对
 
@@ -81,19 +81,19 @@ If this is clear in our minds, we cannot consider leaving society unchanged. We 
 
 这门新的科学将是真实的，它将包含许多学科，其中儿童心理学已经在发展。但它绝不能以冷血的方式进行，就像我们研究植物学、动物学或矿物学一样。它一定不是一项很酷的科学研究。它需要重新唤醒人的意识，重新引导我们的理想，实现我们的希望。它一定会吸引所有人的意识，不像植物学，只有少数人感兴趣，或动物学，也只有少数人感兴趣，对石头的研究感兴趣的就更少了。如果我们研究儿童，就要呼吁整个人类，因为儿童进入了所有男人和女人的生活。任何有人生活的地方，孩子都会出生。如果我们引导男人和女人的爱和注意力转向儿童，我们必须记住，我们关注的不是孩子，而是所有那些有一天会长大成人的男人和女人，那些刚刚开始沿着上升的通道前进，走向成群结队的成年人，他们已经或者即将创造（通过多个世纪）出所有不可思议的事物，这些事物曾经创造并形成了文明。
 
-This new science will be real and it will incorporate many disciplines学科}, of which child psychology is already being developed. But it must not be carried out in a cold-blooded fashion样式}, as we study botany, zoology or mineralogy. It must not be a cool scientific study. It requires the re-awakening of man's conscience, the re-directing of our ideals, the realization that herein在这方面} lies our hope. It is bound to一定会} attract the consciousness of all-unlike botany, which interests only a limited number of people, or zoology, which interests but a few, or the study of stones, in which even fewer are interested. For if we study the child, we appeal to呼吁} the whole of humanity, because children enter the lives of all men and women. Whereever man exists,children are born. And if we direct the love and attention of men and women to the child, we must remember that it is not the child to whom we direct their attention-but to all those men and women who will one day be adults; to the adults who are just starting on their way along the ascending上升的} path, and to the crowds of adults, who have and will have produced(through mutiple centuries) all the marvellous不可思议的} things that have ever been created to form civilization.
+This new science will be real and it will incorporate many disciplines学科, of which child psychology is already being developed. But it must not be carried out in a cold-blooded fashion样式, as we study botany, zoology or mineralogy. It must not be a cool scientific study. It requires the re-awakening of man's conscience, the re-directing of our ideals, the realization that herein在这方面 lies our hope. It is bound to一定会 attract the consciousness of all-unlike botany, which interests only a limited number of people, or zoology, which interests but a few, or the study of stones, in which even fewer are interested. For if we study the child, we appeal to呼吁 the whole of humanity, because children enter the lives of all men and women. Whereever man exists,children are born. And if we direct the love and attention of men and women to the child, we must remember that it is not the child to whom we direct their attention-but to all those men and women who will one day be adults; to the adults who are just starting on their way along the ascending上升的 path, and to the crowds of adults, who have and will have produced(through mutiple centuries) all the marvellous不可思议的 things that have ever been created to form civilization.
 
 如果我们触摸儿童，我们触摸的是人性。我们必须教育成人意识到我们只能通过孩子来改变人性。我们必须意识到孩子是人的建构者。儿童一直是一个迷，一个未知的数量。导致这种不理解的后果的是成人，他们有缺点也有美德，有弱点也有长处。现在的男男女女的建造并非偶然，而是未知的儿童，我们必须在未来认识他。现在我们很难理解，更不用说调和-人性在于思想和品味的多样化。如果我们知道人类是如何被构建的，我们将会更好地理解他们。
 
-If we touch children, we touch humanity. We must educate adults to realize that we can only better the humanity through the child. We must realize that the child is the builder of the man. The child has always been an enigma奥秘}, an unknown quantity. The result of this incomprehension is the adult man-with all his defects and virtues, weaknesses and strengths. It was no accident from which the men and women of today were constructed. It was the unknown child whom we must know in the future. Today we cannot understand-and much less reconcile和好、和解}-humanity in the diversity of its ideas and tastes, but if we knew how human beings had been built we would understand them better.
+If we touch children, we touch humanity. We must educate adults to realize that we can only better the humanity through the child. We must realize that the child is the builder of the man. The child has always been an enigma奥秘, an unknown quantity. The result of this incomprehension is the adult man-with all his defects and virtues, weaknesses and strengths. It was no accident from which the men and women of today were constructed. It was the unknown child whom we must know in the future. Today we cannot understand-and much less reconcile和好、和解-humanity in the diversity of its ideas and tastes, but if we knew how human beings had been built we would understand them better.
 
 现在全世界都同意人们对彼此并不了解，任何人，无论深处何地，都是努力培养同胞感情。他们提倡一种共同的语言-世界语，并建议各国交换学生，这样人们会更好地了解彼此。
 
-Now the whole world agrees that people do not understand each other,and everyone, everywhere, is trying to foster brotherhood. They advocate提倡、主张} a common language, Esperanto,and suggest that if countries exchange students, people will understand each other better.
+Now the whole world agrees that people do not understand each other,and everyone, everywhere, is trying to foster brotherhood. They advocate提倡、主张 a common language, Esperanto,and suggest that if countries exchange students, people will understand each other better.
 
 尽管如此，另一场战争就要接踵而至。显然，这不是一条正确的道路。
 
-Nevertheless然而} another war follows. Evidently显然}, this is not the right path.
+Nevertheless然而 another war follows. Evidently显然, this is not the right path.
 
 If we wish to understand man,we must first understand how man has been built. If there is one time in life when all men have the same ideas,when they speak the same language, it is the time of birth. No matter to what race they belong,in which part of the world they are born,newborns are all alike. If we wish to achive peace and mutural understanding, we must start at the moment of birth,the moment when all men are alike.
 
@@ -117,11 +117,11 @@ Before we can give help, we must understand; we must follow the path from childh
 
 蒙台梭利讲述了如何运用科学来转变、丰富并发展人的个性，并发现了敏感期。教育者应该以孩子们所显露出来的隐藏的能量为引导。
 
-Montessori speaks about how to apply science to transform, enrich, and help develop a personality. Discovery of the sensitive periods. The educators should be guided by the revelations启示、揭露} of the children, his hidden energies.
+Montessori speaks about how to apply science to transform, enrich, and help develop a personality. Discovery of the sensitive periods. The educators should be guided by the revelations启示、揭露 of the children, his hidden energies.
 
 当今世界存在很多教育方法，了解了所有方法就会发现它们是不同的。以我的名字命名的方法通常被视为众多方法中的一种，而正因为如此便产生了怀疑，并得出了混淆想法而非澄清想法的结论。因此，我想要向您展示我的方法有何不同。其他的方法是人们-天才的人们-赋有人类大爱的人们努力的结果。尽管这个方法以我的名字命名，但它不是一个发展了自己想法的伟大思想家努力的结果。我的方法建立在孩子本身的基础上，我们的研究起源于孩子。这个方法是通过跟随孩子和他的心理获得的。它是客观的，不像其他的方法一样主观。它始终都基于我们对观察的解释能力，这些观察源于孩子自己的那些现象。一个坚实的客观方法基于观察，观察事实，这就是为什么蒙台梭利方法与其他的方法完全不同，那些方法来自某些人得出的某些结论。
 
-Numerous methods of education exist today and it is different to become acquainted了解、知晓} with all of them. The method that bears具有、忍受} my name is generally seen as one of many, and because of this, doubts arise and conclusions结论} are reached which muddle弄乱} ideas rather than clarify them. Therefore, I would like to demonstrate to you how my method is different. Other methods are the result of the efforts of people-people of genius-people endowed with a great love of humanity. Although this method bears my name, it is not the result of the efforts of a great thinker who has developed his own ideas. My method is founded on the child himself. Our study has its origins in the child. The method has been achieved by following the child and his psychology. It is objective,not subjective as all the others are. It is always based on our ability to interpret解释、说明} our observations of those phenomena which originate in the child himself. A soundly坚实的} objective method is based on observation, the observation of facts, which is why the Montesorri Methods is entirely different from all the other methods, which came from certain people who arrived at certain theories.
+Numerous methods of education exist today and it is different to become acquainted了解、知晓 with all of them. The method that bears具有、忍受 my name is generally seen as one of many, and because of this, doubts arise and conclusions结论 are reached which muddle弄乱 ideas rather than clarify them. Therefore, I would like to demonstrate to you how my method is different. Other methods are the result of the efforts of people-people of genius-people endowed with a great love of humanity. Although this method bears my name, it is not the result of the efforts of a great thinker who has developed his own ideas. My method is founded on the child himself. Our study has its origins in the child. The method has been achieved by following the child and his psychology. It is objective,not subjective as all the others are. It is always based on our ability to interpret解释、说明 our observations of those phenomena which originate in the child himself. A soundly坚实的 objective method is based on observation, the observation of facts, which is why the Montesorri Methods is entirely different from all the other methods, which came from certain people who arrived at certain theories.
 
 你可能会问，“如果一种方法是某人思考和解释出来的东西，那么为什么这被叫做‘蒙台梭利方法’呢？为什么它以你的名字命名呢？”好吧，我从来没有这样叫过。我给这本书起的标题描述了那些第一次实验的细节，它叫“在儿童之家应用于儿童的科学教育方法”，我在描述一种科学的教育方法。每种科学都有一种方法，我这种方法是应用于教育学的方法。当要把这个标题翻译成英文（或者更确切地说是美式英文）时，出版商说，天呐，这书名太可怕了，我们让它变得简单点吧。我们叫它‘蒙台梭利方法’吧。从那时起，所有的英文版本就都使用这个标题。
 
@@ -133,11 +133,11 @@ The name, in itself and of itself,was of no importance and aroused no interest. 
 
 我想说几句关于40或者50年前关于科学教育法的意图。这种科学教育法起源于一些希望改善学校条件的人们的良好意图。那时的学校正遭遇着两百年来的错误，孩子们也受了很大的苦。补救非常有必要，只有科学才能带来改革。因此，新的方法被称为科学教育法。它的思想就是：“教育孩子首先要了解孩子。”第一个问题就是如何了解孩子。
 
-I would like to say a few words about the intentions意图、目的、打算} at that time, forty or fifty years ago, of scientific pedagogy. This scientific pedagogy saw its origins in the good intensions of people who wished to improve conditions at school. The schools at that time were suffering from two hundred years of errors and the children suffered greatly. A remedy补救} was necessary, and the only way to bring about reform was to do scientifically. Therefore, the new method was called scientific pedagogy. The idea was: "Let us know the child first in order to educate him." The first problem was how to get to know the child.
+I would like to say a few words about the intentions意图、目的、打算 at that time, forty or fifty years ago, of scientific pedagogy. This scientific pedagogy saw its origins in the good intensions of people who wished to improve conditions at school. The schools at that time were suffering from two hundred years of errors and the children suffered greatly. A remedy补救 was necessary, and the only way to bring about reform was to do scientifically. Therefore, the new method was called scientific pedagogy. The idea was: "Let us know the child first in order to educate him." The first problem was how to get to know the child.
 
 所以，我们说，“我们将竭尽所能。”我们做到了。我们开始测量孩子们的身体，看看孩子们在某个年龄段有多高，他们的头部大小，鼻子大小等等。我们做了一个人类学的研究。我们记录了他们的个人历史，疾病史、家庭史、社会和经济地位等，五十年前的这些努力的痕迹依然可以以学生个人记录卡的形式在一些学校找到。通过记录孩子们的生平的历史和测量他们的鼻子耳朵等方式，人们希望能够了解儿童。
 
-So, we said, "We shall do what we can." And we did. We started to measuring their body to see how tall children were at a certain age: the size of their heads, the size of their nosees, etc. We made an anthropological人类学的} study. We recorded their personal history, the illnesses they had had, the history of their families, their social and economic status, etc, Traces of these efforts made fifty years ago can still be found in some schools in the form形式} of the pupils' individual record cards. By recording the biographical history of children and measuring their noses, ears, etc. people hoped to be able know the children.
+So, we said, "We shall do what we can." And we did. We started to measuring their body to see how tall children were at a certain age: the size of their heads, the size of their nosees, etc. We made an anthropological人类学的 study. We recorded their personal history, the illnesses they had had, the history of their families, their social and economic status, etc, Traces of these efforts made fifty years ago can still be found in some schools in the form形式 of the pupils' individual record cards. By recording the biographical history of children and measuring their noses, ears, etc. people hoped to be able know the children.
 
 这当然是不可能的，当我们做完这一切后，我们对孩子的心理还是一无所知。这种方式最终被放弃了，但是它显示了那些想改善学校条件的人们的良好意图。
 
@@ -145,51 +145,51 @@ This was of course impossible. When we had done all this we knew as little of th
 
 我们还进行了另一种尝试。实验心理学测试得到了发展。比奈是许多人中的第一个，他的测试仍然在被认为是先进的学校蓬勃发展，其他人都是跟随者。这些测试提供了关于儿童心理的一些思想：它们显示了孩子的智力水平并为孩子的发展提供了一些启示。它们很有趣，我在我的第一次课程中尝试了一下，因为它们引起了人们了解个人心理的一定兴趣。
 
-Another attempt was made. Tests were developed, experimental psychology tests. Binet was the first of many and others followed and his tests still flourish茂盛、繁荣} in schools known as progressive进步的、先进的} schools. These tests provide an idea of the child's psychology: they show the level of intelligence and throw some light on the child's development. They are interesting and I tried them in some of my first courses because they arouse a certain amount of interest in knowing the psychology of the individual.
+Another attempt was made. Tests were developed, experimental psychology tests. Binet was the first of many and others followed and his tests still flourish茂盛、繁荣 in schools known as progressive进步的、先进的 schools. These tests provide an idea of the child's psychology: they show the level of intelligence and throw some light on the child's development. They are interesting and I tried them in some of my first courses because they arouse a certain amount of interest in knowing the psychology of the individual.
 
 但是在我了解了所有那些心理测试可以告诉我的所有关于个人的心理内容后，我该怎么办？这些测试向我展示了孩子已经达到的水平，但是它们没告诉我该怎么教孩子。问题在于发展科学的教育。测量耳朵、鼻子、胸部以及智力发育等，对我们的教育没有帮助。在所有这些尝试中缺少了一些最基本的东西，那就是教育学。这样，所有这些科学的元素都没有在现代学校中保留下来，而成为了一种有趣的装饰。教育被局限于一方面，而对个人的研究被局限在了另一方面。把两个结合起来非常困难，因此，它们之间的联系从未被建立起来过。
 
-But after I have learnt all that the psychological tests can tell me about the psychology of  the individual,what am I to do?These tests show me the level the child has achieved ,but they do not show me how to teach. The problem is to develop the science of education. Measuring ears,noses,chests,etc,measuring mental development,etc,will not help us educate.There is something essential lacking in all these attempts:pedagogy.Thus, all these scientific elements have remained no more than an interesting ornament装饰 in modern schools. Education was restricted有限制的} to one side and the study of the individual to the other. It is very difficult to combine the two, and as a result, the link between them was never made.
+But after I have learnt all that the psychological tests can tell me about the psychology of  the individual,what am I to do?These tests show me the level the child has achieved ,but they do not show me how to teach. The problem is to develop the science of education. Measuring ears,noses,chests,etc,measuring mental development,etc,will not help us educate.There is something essential lacking in all these attempts:pedagogy.Thus, all these scientific elements have remained no more than an interesting ornament装饰 in modern schools. Education was restricted有限制的 to one side and the study of the individual to the other. It is very difficult to combine the two, and as a result, the link between them was never made.
 
 当一个人自身有很大缺陷时，他就无法继续前进-无论是绝妙的想法，还是崇高的科学，亦或者复杂的大纲都对他没有帮助。只有一种可能性，如果一个人试图用语言教育一个严重的孤独症患者或者发育迟缓的孩子是没用的，因为这是孩子无法理解的东西。如果这个人想进行心理测试，孩子无法回答，这该怎么办？必须间接地解决问题，吸引孩子的注意力，除了语言之外，还有一些必要的东西来弥补不足。为了帮助孩子说话，与他人沟通，不能像在传统学校中一样仅仅要求服从。在这种情况下，身体测量和智力测试都没有太大帮助。那些孩子仍然是一个谜，一个问题。传统的方式无法解决，也无助于我们找到解决方案。一种新的方法必须被采用，这些孩子的教育不能建立在哲学的基础上，唯一可能教育他们的方法是利用潜伏在他们每个人身上的能量。教育这些孩子，必须严格地根据现实的实际情况工作。而这种现实通常又都是有限的。一个人只能做他能做的事情，然后才是间接地做不能做的。这些孩子必须在能够专注之前变得活跃起来，因此，我们必须付出特别大的努力。
 
-When an individual has some great defect in himself one cannot proceed前进}-for neither brilliant ideas, nor lofty崇高的} scientiments or sophisticated老练的} syllabi摘要} will be of help to him. Only one thing is possible. If one tries to educate a severely严肃的} autistic孤独症} or developmentally retarded发育迟缓的} child with words-with language-this would be useless, because this is something a child cannot understand. If one were to apply psychological tests, the child would not be able to answer. What is one to do? It is necessary to approach the problem indirectly and attract the child's attention. Something other than words is necessary to remedy what is lacking. To help this child speak, to communicate with others, is something quite different from merely asking for obedience服从}, as in schools for normal children. In this case, neither measurements nor intelligence tests are of much help. The child remains an enigma奥秘}, a problem. A traditional approach cannot be the remedy; this will not help us to find a solution. A new method must be applied. The education of these children cannot be based on philosophy. The only possible way to educate them is to make use of the energies that lie dormant潜伏的} in each individual child. To educate these children one must work strictly with the reality现实} of the situation-often a very limited reality. One can only do what one can, and then indirectly. It is necessary that these children come to life before they can pay attention. Therefore, a very special effort must be made.
+When an individual has some great defect in himself one cannot proceed前进-for neither brilliant ideas, nor lofty崇高的 scientiments or sophisticated老练的 syllabi摘要 will be of help to him. Only one thing is possible. If one tries to educate a severely严肃的 autistic孤独症 or developmentally retarded发育迟缓的 child with words-with language-this would be useless, because this is something a child cannot understand. If one were to apply psychological tests, the child would not be able to answer. What is one to do? It is necessary to approach the problem indirectly and attract the child's attention. Something other than words is necessary to remedy what is lacking. To help this child speak, to communicate with others, is something quite different from merely asking for obedience服从, as in schools for normal children. In this case, neither measurements nor intelligence tests are of much help. The child remains an enigma奥秘, a problem. A traditional approach cannot be the remedy; this will not help us to find a solution. A new method must be applied. The education of these children cannot be based on philosophy. The only possible way to educate them is to make use of the energies that lie dormant潜伏的 in each individual child. To educate these children one must work strictly with the reality现实 of the situation-often a very limited reality. One can only do what one can, and then indirectly. It is necessary that these children come to life before they can pay attention. Therefore, a very special effort must be made.
 
 如果有人能够成功地教育异常的孩子，这就必须依据科学的原理，因为现有的教育法是不够的。但是，有一种基本的科学原理：感官教育，一种应用于这种个体的积极教育形式。这是在科学教育法上的第一个真正的成就，这种方法帮助非正常的孩子接受教育。它不会仅仅局限于知识的传播，它让一个人变得比以前更强大、更完美、更快乐、更有活力。这是一个奇迹，事实证明，如果真的要发展科学教育法，我们必须忘记一切，全身心地投入完全为了这个目的。一个人鼻血间接地接近它，然后应用他所拥有的科学来改变、丰富、完美和帮助个体，科学教育法不仅仅是关于知识的传播。
 
-If anyone is able to succeed in educating the abnormal child,this would have to be based on scientific principles, as existing pedagogy is not sufficient. There is, however, a basic scientific principle: the education of the senses, a positive form of education which was applied to these individuals. This was the first real achievement in scientific pedagogy, and this approach helped abnormal children to be educated. It was not limited to the transmission of knowledge. The individual became more powerful, more perfect-happier and more energetic精力充沛的、充满活力的}-than before. It was a miracle. It was shown that if a scientific pedagogy were indeed to be developed, we must forget everything and dedicate ourselves entirely to this purpose. A person must approach it indirectly and apply all the science he has to transform改变}, enrich, perfect, and help the personality. Scientific pedagogy is not only about the transmission传送、传播} of knowledge.
+If anyone is able to succeed in educating the abnormal child,this would have to be based on scientific principles, as existing pedagogy is not sufficient. There is, however, a basic scientific principle: the education of the senses, a positive form of education which was applied to these individuals. This was the first real achievement in scientific pedagogy, and this approach helped abnormal children to be educated. It was not limited to the transmission of knowledge. The individual became more powerful, more perfect-happier and more energetic精力充沛的、充满活力的-than before. It was a miracle. It was shown that if a scientific pedagogy were indeed to be developed, we must forget everything and dedicate ourselves entirely to this purpose. A person must approach it indirectly and apply all the science he has to transform改变, enrich, perfect, and help the personality. Scientific pedagogy is not only about the transmission传送、传播 of knowledge.
 
 所以我们有两个计划：一个是遵循教学大纲传播知识，另一个是关注人的生活并服务于它帮助人类。
 
-So there are two plans: one is to disseminate传播散布} knowledge, to follow a syllabus教学大纲}. The other is to look to the life of man and serve it, and in serving it, help humanity.
+So there are two plans: one is to disseminate传播散布 knowledge, to follow a syllabus教学大纲. The other is to look to the life of man and serve it, and in serving it, help humanity.
 
 只有后者才是真正有价值的选择，教育的目的必须是提升个人，否则教育就没有用了，这必须是教育的目的。我们必须热爱人类，而不是仅仅想要应用一个预想的计划。
 
-The latter后者的} is the only one really worthwhile值得的} choice. The purpose of education must be to elevate举起、提升} the individual; otherwise education would be of no use. This must be the goal of education. We must wish to love humanity, instead of merely wanting to apply a preconceived预想的} plan.
+The latter后者的 is the only one really worthwhile值得的 choice. The purpose of education must be to elevate举起、提升 the individual; otherwise education would be of no use. This must be the goal of education. We must wish to love humanity, instead of merely wanting to apply a preconceived预想的 plan.
 
 有一种和特殊需求的儿童相似的儿童，那就是新生儿。现在大家都同意教育必须从出生开始。我们如何帮助一个不会说话、无法理解甚至不会移动的孩子呢？如果我们成功了，我们一定会创造出一份科学的工作，我们只能通过间接的行动来进行；我们必须帮助每一个个体。教育始于孩子出生，但它的指令必须来自孩子，而非我们。
 
-There is parallel平行} to the child with special needs: the newborn child. Everyone agrees now that education must start from birth. How can we help a child who cannot speak, who is not capable of understanding or cannot even more? If we succeed, we shall certainly have created a scientific work. We can proceed only through indirect action; we must help each person individually. Education begins with the birth of the child, but its dictates指令} must come from the child, not from us.
+There is parallel平行 to the child with special needs: the newborn child. Everyone agrees now that education must start from birth. How can we help a child who cannot speak, who is not capable of understanding or cannot even more? If we succeed, we shall certainly have created a scientific work. We can proceed only through indirect action; we must help each person individually. Education begins with the birth of the child, but its dictates指令 must come from the child, not from us.
 
 当我把为异常孩子开发的教育法应用于正常孩子身上时，发生了一件非常有意义的事情。出现的现象非常出乎意料，非常神奇，更奇妙的是因为它来自正常孩子的灵魂。这是对存在于人身上的强大力量的启示，这个人正处于尚未被重视的年龄，也就是说他还是一个年轻的孩子。这些孩子被喜悦而照亮，继而开始阅读和写作。没有老师教他们，他们却能从早读到晚，写到晚，他们的喜悦就像一团火焰一样。重要的是孩子心理的这种突然的启示。他们的成就不是由于教育者的行为，而是由于儿童力量的启示。
 
-Something very significant happened when I applied the pedagogy developed for the abnormal child to normal children. The phenomenon that emerged was unexpected -miraculous-all the more marvellous奇妙的} because it came from the souls of normal children. It was the revelation of the great powers existing in man at an age when there was not yet any regard for him-when he is a young child. These little children came alight照亮的} with joy and began to read and write. No teacher had taught them and they read and wrote from morning to night. their joy was like a flame. The important thing was this sudden revelation in the psychology of the child. Their achievement was not due to the action of an educator-it was a revelation of the power of little children.
+Something very significant happened when I applied the pedagogy developed for the abnormal child to normal children. The phenomenon that emerged was unexpected -miraculous-all the more marvellous奇妙的 because it came from the souls of normal children. It was the revelation of the great powers existing in man at an age when there was not yet any regard for him-when he is a young child. These little children came alight照亮的 with joy and began to read and write. No teacher had taught them and they read and wrote from morning to night. their joy was like a flame. The important thing was this sudden revelation in the psychology of the child. Their achievement was not due to the action of an educator-it was a revelation of the power of little children.
 
 人们对这种方法有点大惊小怪。大家都说是我这种绝妙的方法让孩子们拥有了能力，每个人都对这种方法充满了热情。然而，产生这种现象的不是学校也不是这种方法，是小孩子力量的表达，是到目前为止仍然不知情的某种东西的启示。重要是的对儿童这种超能力的发现。我已经迷失在了钦佩中，认识到孩子在四岁半这么小的年龄就有这么大的能量和智慧！大一点的孩子大概9岁的孩子，就不那么聪明了。这是我们第一次有证据表明人类的智力没有向前进步，变得更加强大，在不同的年龄有着不同的智能。年幼的孩子有一种与年长的孩子不同的思维模式，我们第一次意识到年幼的孩子有一种能量，随着长大就会消失，这是每个生命个体的进化问题。
 
-People made a lot of fuss大惊小怪、忙乱} about the method. Everyone said it was my marvellous绝妙的} method which gave this ability to children, and everyone was enthusiastic热心的、满腔热情的} ablout it. However, It was neither the school nor the method which produced this phenomenon. It was the expression of the power of the small child and it was a revalation of something that had hitherto到目前为止} remaid unknow. The important thing was the discovery of the surpring power of the young child. I was lost in admiration赞赏倾佩} -in the realization that children at such a young age, four and a half years, have this great power, this great intelligence! The older children-the nine-year-olds, were less intelligent. This was the first time that we had evidence that the intelligence of man does not progress forward, becoming ever greater. At the different ages there are different mentalities心态、智能}. There is a form of mind in younger children that is different from that of older children. For the first time we realized that the young child has powers which are lost as it grows older. It is a matter of the evolution进化} of each life individually.
+People made a lot of fuss大惊小怪、忙乱 about the method. Everyone said it was my marvellous绝妙的 method which gave this ability to children, and everyone was enthusiastic热心的、满腔热情的 ablout it. However, It was neither the school nor the method which produced this phenomenon. It was the expression of the power of the small child and it was a revalation of something that had hitherto到目前为止 remaid unknow. The important thing was the discovery of the surpring power of the young child. I was lost in admiration赞赏倾佩 -in the realization that children at such a young age, four and a half years, have this great power, this great intelligence! The older children-the nine-year-olds, were less intelligent. This was the first time that we had evidence that the intelligence of man does not progress forward, becoming ever greater. At the different ages there are different mentalities心态、智能. There is a form of mind in younger children that is different from that of older children. For the first time we realized that the young child has powers which are lost as it grows older. It is a matter of the evolution进化 of each life individually.
 
 在生命的第一年，我们有着巨大的潜力和能量，如果不提供发展的机会，这些潜力和能量就会消失。例如，一个14岁的男孩，发现很难记住单词，但是一个5岁的男孩却可以很容易并且很愉快得记住它们。通过发展，我们拥有了更多的能量，这是不正确的，生命有不同的时期来获得不同的能力，小孩子有一种能量去做年长的人所不能做到的，因为它们正处于创造的年纪。比如，成人甚至长不出一颗牙齿，小孩子却能长出一整套——这是属于他们这个年纪独有的一种生理能量。儿童心理发展也有不同的阶段，儿童拥有某些能力不能归因于某种方法。这就是下一个关于敏感期的发现，在心理发展的某个时期孩子会拥有非常强大的能力。
 
-In the first year of life we have great potential and powers, which are not given the oppotunity to develop and are therefore lost. A boy of fourteen, for example, finds it difficult to memorize words, but a boy of five can memorize them easily and with pleasure. It is not true that with development we attain more power. There are different periods in life when we can acquire different abilities. Little children can do things that older ones are no longer capable of. Children from birth to six years have a power that we no longer have, for they are at the age of creation. Adults cannot produce even one tooth, for instance, while little children grow a whole set-an example of the physical power exclusive专用的、独家的} to their age. The same is true within the context of psychological development. There are periods in psychological development in which children have capacities that cannot be attributed归因于} to any method. And this was the next discovery, the discovery of the sensitive periods-periods in psychological development during which the child has very powerful capacities.
+In the first year of life we have great potential and powers, which are not given the oppotunity to develop and are therefore lost. A boy of fourteen, for example, finds it difficult to memorize words, but a boy of five can memorize them easily and with pleasure. It is not true that with development we attain more power. There are different periods in life when we can acquire different abilities. Little children can do things that older ones are no longer capable of. Children from birth to six years have a power that we no longer have, for they are at the age of creation. Adults cannot produce even one tooth, for instance, while little children grow a whole set-an example of the physical power exclusive专用的、独家的 to their age. The same is true within the context of psychological development. There are periods in psychological development in which children have capacities that cannot be attributed归因于 to any method. And this was the next discovery, the discovery of the sensitive periods-periods in psychological development during which the child has very powerful capacities.
 
 因此，我们必须制定新的计划，我们必须从生命的开始，从出生开始研究与这些能量的有关的孩子。我们必须研究并观察这些神秘的事件，观察人类精神生活的开始，因为孩子是人类思想的创造者。这种创造必须按照各种现象的顺序来研究。我们必须研究儿童深远而神秘的心理，观察它的发展，然后发生我们可以做什么来发展。
 
-Thus,we must make a new plan.We must study the child in relation to these powers from the beginning of life,from birth.We must study and observe the mysterious event,the beginning of the psychic灵魂的、心灵的} life of man, for the child is the creator of the adult mind of man. This creation must be studied in the sequence of the phenomena. We must study the profound深远的} and mysterious psychology of the little child, observe its development, and find what we can do to develop.
+Thus,we must make a new plan.We must study the child in relation to these powers from the beginning of life,from birth.We must study and observe the mysterious event,the beginning of the psychic灵魂的、心灵的 life of man, for the child is the creator of the adult mind of man. This creation must be studied in the sequence of the phenomena. We must study the profound深远的 and mysterious psychology of the little child, observe its development, and find what we can do to develop.
 
 现在知道了我们必须使用隐藏起来的能量，为了做到这一点，我们必须首先更多地了解这些隐藏的能量。我们必须制定一个由孩子所揭示的能量所指导的发展计划。我们必须不能继续前进，不是基于我们自己的想法和偏见，也不是基于预想的方法，儿童基于对孩子的观察。儿童地个性崇高地站在教育的这一重大问题的中心，他是这个计划中唯一可能的主人，我们的努力必须由这个以他绝妙的隐藏能量站在我们面前的孩子引导。当我们说孩子是我们的老师时，我们的意思是我们必须以他的启示为指导，我们的起点必须是对于人类个体特征的揭示。
 
-We now know that we must use hidden energies, but in order to do so we must first find out more about these hidden energies. We must make a plan of development guided by the child through the power that it reveals. We must proceed, not on the basis of our own ideas or on our own prejudices, not on preconceived预想的、先入为主的} methods, but by observing the child. The personality of the child stands loftily傲慢地、高尚地} at the centre of the great problem that is education. It is the only possible master主任、大师} in this plan. This child who stands before us with his marvellous hidden energies must lead our efforts. When we say that the child is our teacher, we mean that we must take his revelations显露} as our guide. Our starting point must be the revelation of the characteristics of the human individual.
+We now know that we must use hidden energies, but in order to do so we must first find out more about these hidden energies. We must make a plan of development guided by the child through the power that it reveals. We must proceed, not on the basis of our own ideas or on our own prejudices, not on preconceived预想的、先入为主的 methods, but by observing the child. The personality of the child stands loftily傲慢地、高尚地 at the centre of the great problem that is education. It is the only possible master主任、大师 in this plan. This child who stands before us with his marvellous hidden energies must lead our efforts. When we say that the child is our teacher, we mean that we must take his revelations显露 as our guide. Our starting point must be the revelation of the characteristics of the human individual.
 
 当我说我们必须把孩子当作老师时，你可能会反对，说我们必须教育孩子，给予他各种信息，他必须学习我们认为重要的学科，不要有这些偏见，当他的能量被释放出来时，孩子会比之前更好地学习。
 
@@ -199,175 +199,175 @@ When I say that we must take the child as our teacher you will probably object, 
 
 Therefore, I would call this the Child's Method, not the Montessori Method.
 
-## 基于心理学的教育-Education based on psychology}
+## 基于心理学的教育-Education based on psychology
 
 儿童心理的发展来自于手的运动，这对于发现儿童精神生活的表现非常重要。人类的精神生活在于敏感期，因此生命最开始的时间是最重要的阶段，针对儿童的研究对于帮助人类的成熟非常重要。
 
-Importance of discovering the manifestations显示、表现} of the psychic心灵的} life of little children. They revealed that development of the mind comes through movements of the hand. Sensitive periods in the psychic life of man. The begining of life is the most important period. Study of the child is important to help maturing成熟} humanity.
+Importance of discovering the manifestations显示、表现 of the psychic心灵的 life of little children. They revealed that development of the mind comes through movements of the hand. Sensitive periods in the psychic life of man. The begining of life is the most important period. Study of the child is important to help maturing成熟 humanity.
 
-## 发展阶段-The planes of development}
+## 发展阶段-The planes of development
 
 发展阶段：0-6岁，6-12岁，12-18岁。生命按照自然的法则不断成长，不同发展阶段的特征表明进步不是线性的，传统教育的错误前提之一在于它没有考虑自然的能量。
 
-Planes of development: 0-6,6-12,12-18years. Life grows according to natural laws. Characteristics of periods of development that show that progress进步发展} is not linear线性}. One of the false premises前提} of traditional education is that it does not take account the energies of nature.
+Planes of development: 0-6,6-12,12-18years. Life grows according to natural laws. Characteristics of periods of development that show that progress进步发展 is not linear线性. One of the false premises前提 of traditional education is that it does not take account the energies of nature.
 
-## 遗传和创造-Heredity遗传} and creation}
+## 遗传和创造-Heredity遗传 and creation
 
 生命最重要的时期就是人出生后的头两年，这里指精神的创造而非肉体的成长。动物被局限在它们的遗传特征上，人类却可以做任何事情。小孩子从环境中汲取能量来构建人类的心智，它们通过运用嗅觉、味觉和触觉成为先期的创造者。
 
 The most important period of human life is that of the first two years, which sees psychic creation rather than growth. Animals are limited to their hereditary characteristics; man can do everything. The small child takes from his environment, is able to construct the mind of man. He is a pro-creator. Function of the senses of smell, taste and touch.
 
-## 无意识的心理-The psychology of the unconscious}
+## 无意识的心理-The psychology of the unconscious
 
 描述一个婴儿身体的协调和人类大脑的重要性。蒙台梭利将注意力集中在了婴儿眼睛的力量与意识的形成有关。儿童经历了从无意识到潜意识的连续步骤，然后通过逐渐的发展达到清晰的意识层次。孩子必须作为所有环境的一部分并尽可能多地接触到语言。
 
-Description of physical proportions协调} of a baby, and the importance of the human brain. Montessori draws attention to the power of a baby's eyes, in connection with the formation形成} of consciousness. The child goes through successive连续的} steps from the unconscious to the subconscious and so arrives at clear consciousness by gradual development. The child must be a part of all enviroments and hear language as often as possible.
+Description of physical proportions协调 of a baby, and the importance of the human brain. Montessori draws attention to the power of a baby's eyes, in connection with the formation形成 of consciousness. The child goes through successive连续的 steps from the unconscious to the subconscious and so arrives at clear consciousness by gradual development. The child must be a part of all enviroments and hear language as often as possible.
 
-## 从出生开始的教育-Education from birth}
+## 从出生开始的教育-Education from birth
 
 意识建立在个体身上，为了发展语言，未受损害的听觉是非常必要的，小孩子会被人类的声音深深打动。尽管小孩子没有语言，但他对此有敏感性，他不需要老师而是从环境中吸收语言。儿童在无意识中具有一种不同于我们有意识的人所拥有的任何力量。孩子的吸收性心智需要生命和环境。
 
-Consciousness is built up in the individual. In order to develop language, an unimpaired sense of hearing is necessary. The little child is deeply touched by the sound of the human voice. Although the very young child does not "have" language, his sensibility敏感性} is in place在适当位置}; it is absorbed from the environment and without a teacher. The child possesses具有}, in his unconscious, a power different from any we possess as conscious people. The child's absorbent mind needs life and an environment.
+Consciousness is built up in the individual. In order to develop language, an unimpaired sense of hearing is necessary. The little child is deeply touched by the sound of the human voice. Although the very young child does not "have" language, his sensibility敏感性 is in place在适当位置; it is absorbed from the environment and without a teacher. The child possesses具有, in his unconscious, a power different from any we possess as conscious people. The child's absorbent mind needs life and an environment.
 
-## 语言的发展-The development of language}
+## 语言的发展-The development of language
 
 口语和听觉语言是两种不同的发展，听觉语言是第一个发展的。我们要区分语言隐藏而复杂的准备（潜意识）和外在的表达（下意识）。语言的发展不是逐步地而是有间断的。经过一年的学习和努力后，才会说出第一个有意义的词汇，紧接着就会理解到不同种类的词汇。
 
-Spoken and auditory听觉的} language are two different developments; auditory language is the first one to develop. We differentiate between the hidden and complex preparation of language (subconscious) and the external expression (conscious). Language does not develop gradually but at intervals. After a year of "study" and effort the first intentional有意的} word is spoken, followed by an understanding of different kinds of words.
+Spoken and auditory听觉的 language are two different developments; auditory language is the first one to develop. We differentiate between the hidden and complex preparation of language (subconscious) and the external expression (conscious). Language does not develop gradually but at intervals. After a year of "study" and effort the first intentional有意的 word is spoken, followed by an understanding of different kinds of words.
 
-## 与自然的不和谐-Inharmony不和谐} with nature}
+## 与自然的不和谐-Inharmony不和谐 with nature
 
 两年后，孩子对语言的内在兴趣得到满足，他的主要兴趣转向了环境。在这个阶段，孩子需要在环境中的得到帮助及鼓励。
 
 After two years, a kind of inner interest for language is satisfied and the child's main interest shifts to the environment. At this stage the child needs help in the environment and encouragement.
 
-## 解锁智能-Unlocking the intelligence智力}}
+## 解锁智能-Unlocking the intelligence智力
 
 对感官教具的描述帮助孩子从环境中获得清晰的印象，感官的独立，再引入对立和渐变，观察和智能也会得到提升，如果渐变是精准的，感知的清晰度也会随之提升。
 
-Description描述} of sensorial materials that help the child acquire clear impressions from the environment. With the help of introducing opposites对立} and gradation渐变} both observation and intelligence are refined提炼、改善}, e.g. if the gradation is measured测量过的、有标准的}, the clarity清晰} of perception感知、觉察} improves. Isolation of the senses.
+Description描述 of sensorial materials that help the child acquire clear impressions from the environment. With the help of introducing opposites对立 and gradation渐变 both observation and intelligence are refined提炼、改善, e.g. if the gradation is measured测量过的、有标准的, the clarity清晰 of perception感知、觉察 improves. Isolation of the senses.
 
-## 社会发展和适应-Social development and adaptation}
+## 社会发展和适应-Social development and adaptation
 
 智能教育与智能发展有关。道德和社会教育与社会的职业生活有关。孩子从出生以来就必须在环境中为社会生活做好准备，无论是适应还是他的行为。动物拥有遗传的适应能力，人类必需为自己建构。动物的身体是心理功能的工具，心理功能是首先被创建出来的；身体是为心理功能服务的。在人出生后的头两年，孩子必需建构适应所在的群体。
 
-Intellectual education is concerned with intellectual development. Moral道德的、精神的} and social education are concerned with the active积极的、主动的} life职业生活、有效寿命} of society. The child must be prepared for social life in the environment from birth. Adaptation and behaviour. Aninmals have a hereditary遗传的} power to adapt; man has to construct for himself. The animal body is the instrument of his psychic心灵的} functions. The function is created first; the body is at the service of the function. During the first two years, the child has to construct the adaptation to his group.
+Intellectual education is concerned with intellectual development. Moral道德的、精神的 and social education are concerned with the active积极的、主动的 life职业生活、有效寿命 of society. The child must be prepared for social life in the environment from birth. Adaptation and behaviour. Aninmals have a hereditary遗传的 power to adapt; man has to construct for himself. The animal body is the instrument of his psychic心灵的 functions. The function is created first; the body is at the service of the function. During the first two years, the child has to construct the adaptation to his group.
 
-## 人和超自然-Man and supernature超自然}}
+## 人和超自然-Man and supernature超自然
 
 人和环境以及他对环境的适应有关，这是一项极其重要的任务。适应环境是人的第一要务。每只动物都是一个中介，致力于环境中所有事物的和谐关系，生物不单单为自己工作，大自然有其自己的秩序，这其中一切都是相关的。生命都具有两面性：一面是有意识，一面是无意识，人类也是如此。人要准备好自己对环境的适应，这就必需通过双手的工作来改变环境。
 
-Man is correlation with the environment and his adaptation to it. Cosmic宇宙的巨大的} tasks. Adaptation to the environment is the first necessity. Each animal is an agent中介、代理} who works for a harmonious correlation of all things in the environment. Living beings do not work for themselves alone. There is an order in nature, where all is correlated. Two sides of life:one conscious, the other unconscious. The same goes for humankind. Man prepares his own adaptation to the environment, and must modify修改} the environment especially through work with his hands.
+Man is correlation with the environment and his adaptation to it. Cosmic宇宙的巨大的 tasks. Adaptation to the environment is the first necessity. Each animal is an agent中介、代理 who works for a harmonious correlation of all things in the environment. Living beings do not work for themselves alone. There is an order in nature, where all is correlated. Two sides of life:one conscious, the other unconscious. The same goes for humankind. Man prepares his own adaptation to the environment, and must modify修改 the environment especially through work with his hands.
 
-## 人的研究-The study of man}
+## 人的研究-The study of man
 
 只有让孩子更加适应文明的未来时，我们才能帮助人类。帮助人类创造社会，某些本能是必不可少的，比如原始的移动本能，还有保持在一个地方的倾向。其他方面包括语言、用手的工作、对音乐的喜欢和态度、宗教、对祖国的热爱以及道德准则。一个群体会构建出一种特别的个性，适应不仅表现在地理层面，还体现在精神层面。我们必须把儿童视为改变人类的手段。
 
-We can only help man if we did the child to be more adapt to the future of civilization. To help men creat society, certain肯定、某些} instincts本能、天性} are indispensable必不可少的}, such as a primitive原始的} instinct to move, yet also the tendency to remain in one place. Other aspects include,language and work of the hands, joy and sentiments态度} for music, religion, love for the country, and moral codes章则}. A group constructs a special character. Adaptation is performed not only on the geographical side, but also on the psychic side. We must look to the children as the means to bringing a change to humanity.
+We can only help man if we did the child to be more adapt to the future of civilization. To help men creat society, certain肯定、某些 instincts本能、天性 are indispensable必不可少的, such as a primitive原始的 instinct to move, yet also the tendency to remain in one place. Other aspects include,language and work of the hands, joy and sentiments态度 for music, religion, love for the country, and moral codes章则. A group constructs a special character. Adaptation is performed not only on the geographical side, but also on the psychic side. We must look to the children as the means to bringing a change to humanity.
 
-## 新生儿的心理特点-The psychology心理学、心理特点} of the newborn}
+## 新生儿的心理特点-The psychology心理学、心理特点 of the newborn
 
 正是儿童的活动建立了人的思想。儿童拥有精神胚胎。新生儿必须努力去适应外部世界。从出生便开始的教育需要身体和精神的双重“卫生”。人类的任务是把自然界的所有都提升到更高的高度蒙台梭利否定了精神分析学家的论点，即可怕的出生经历（出生恐惧）是某些异常情况的原因。正常的孩子会从一种独立走向另一种独立，独立是成长的现象，一开始我们看到的是身体的习得：比如牙齿、行走和语言。
 
-It is the activity of the child that builds the mind of man.The child is a spiritural embryo. The newborn must make a great effort to adapt to the external world. Education from birth needs both physical and psychic "hygiene"卫生}. It is man's task to raise抚养、提升} everything that is in nature to a greater height高处}. Montessori invalidates使无效作废} the arguments争吵、论证} by psychoanalysts精神分析学家} that the terrifying experience of birth(i.e. "birth terror") is the cause of certain abnormalities异常情况}. Normal children go from one independence to another. Independence is a phenomenon of growth. At first we see physical acquisitions获得}: teeth, walking, language.
+It is the activity of the child that builds the mind of man.The child is a spiritural embryo. The newborn must make a great effort to adapt to the external world. Education from birth needs both physical and psychic "hygiene"卫生. It is man's task to raise抚养、提升 everything that is in nature to a greater height高处. Montessori invalidates使无效作废 the arguments争吵、论证 by psychoanalysts精神分析学家 that the terrifying experience of birth(i.e. "birth terror") is the cause of certain abnormalities异常情况. Normal children go from one independence to another. Independence is a phenomenon of growth. At first we see physical acquisitions获得: teeth, walking, language.
 
-## 触摸-Touch}
+## 触摸-Touch
 
 除了身体，我们还必须给予儿童精神上的照顾。自发且充满深情的对待孩子可以帮助他们的发展。儿童不仅想要身体上的营养，还想要精神上的滋养。
 
-We must give children spiritural as well as physical care. Spontaneous自发的、无意识的} affectionate慈爱的、充满深情的} treatment处理、对待} helps the child's development. Little children want not only physical nourishment营养}, they want mental精神的、头脑的、心灵的} nourishment too.
+We must give children spiritural as well as physical care. Spontaneous自发的、无意识的 affectionate慈爱的、充满深情的 treatment处理、对待 helps the child's development. Little children want not only physical nourishment营养, they want mental精神的、头脑的、心灵的 nourishment too.
 
-## 自发的活动-Spontaneous activity}
+## 自发的活动-Spontaneous activity
 
 小孩子可以非常超前。在或多或少的教育下，它们征服了独立。他们喜欢搬重东西，做困难的事情，他们有一种内在驱动力来付出最大程度的努力。儿童有模仿的倾向（去适应这个世界）但首先必须有所准备。有一种活动周期会给孩子带来协调的动作，孩子依赖世界来接受他，给他快乐所需要的东西，让他拥有良好的品格，他还想要适合的环境和合适的精神理疗。
 
-Small children can be very advanced超前的先进的}. With more or less educated hands, they conquer征服} independence. They like to carry heavy things and do difficult things-they have an inner drive to exert运用、发挥} the maximum effort. Children have a tendency to imitate (to adapt to this world) but first there must be a preparation. There is a cycle of activity which brings coordinated movement. The child depends on the world to receive him, to give him what he needs to become happy, to have a good character, he wants the right environment and the right psychic treatment治疗}.
+Small children can be very advanced超前的先进的. With more or less educated hands, they conquer征服 independence. They like to carry heavy things and do difficult things-they have an inner drive to exert运用、发挥 the maximum effort. Children have a tendency to imitate (to adapt to this world) but first there must be a preparation. There is a cycle of activity which brings coordinated movement. The child depends on the world to receive him, to give him what he needs to become happy, to have a good character, he wants the right environment and the right psychic treatment治疗.
 
-## 创造的能量-The energy能量、精神} of creation}
+## 创造的能量-The energy能量、精神 of creation
 
 生命的自然冲动迫使孩子的身体从一开始的被动变得活跃。首先孩子会移动他的头，然后是肩膀，然后是手。他必须尽可能多地做他当时能做的，我们必须给予他明智的鼓励。我们必须区分有意识的人格的意志和自然的意志，这种自然的意志是在有意识的人格的意志发展之前出现的。小脑是平衡的器官，活动的器官有助于智力。人必须工作才能发展，我们必须给予孩子合适的条件然后在必要的时候给予鼓励和帮助。
 
-The natural urges鼓励、促使} of life force强迫、促使} the child's body, passive被动的} in the beginning, to become active. First the child moves the head, then the shoulders, then the hands. He must do just as much as he is able to do at the time and we must give him intelligent聪明的} encouragement. We must make a distinction区别} between the will意志、意图} of a conscious personality人格、个性} and the will of nature which comes before the development of concious will. The cerebellum小脑} is the organ of equilibrium平衡}. The organs of activity help the intellect. Man must work in order to develop. We must give the child the right conditions and then encouragement and help when necessary.
+The natural urges鼓励、促使 of life force强迫、促使 the child's body, passive被动的 in the beginning, to become active. First the child moves the head, then the shoulders, then the hands. He must do just as much as he is able to do at the time and we must give him intelligent聪明的 encouragement. We must make a distinction区别 between the will意志、意图 of a conscious personality人格、个性 and the will of nature which comes before the development of concious will. The cerebellum小脑 is the organ of equilibrium平衡. The organs of activity help the intellect. Man must work in order to develop. We must give the child the right conditions and then encouragement and help when necessary.
 
-## 独立教育-Education for independence}
+## 独立教育-Education for independence
 
 经过一段时间的大量活动后就会有一段时间的休息。在第二年的上半年，有许多活动周期为未来的运动作准备。儿童喜欢走路，成人必须和他一起走，反之亦然。让孩子走路并且注意他是怎么走的：他是在探索环境。
 
-After a period of great activity comes a period of rest. During the first half of the second year there are many cycles of activity in preparation for future movement. The child likes to walk, the adult must walk with him, and not vice versa反过来也一样}. Let the child walk, and notice how he walks:he explores the environment.
+After a period of great activity comes a period of rest. During the first half of the second year there are many cycles of activity in preparation for future movement. The child likes to walk, the adult must walk with him, and not vice versa反过来也一样. Let the child walk, and notice how he walks:he explores the environment.
 
-## 最重要的年纪-The most important age}
+## 最重要的年纪-The most important age
 
 儿童的各种功能通过环境中的活动得以正常地发展。当身体或者身体营养不足时，就要产生抑制。我们可以把孩子想象成一个剪影，在他的周围是未来人类的轮廓。偏离来源于打击和伤害，唯一的补救方法就是在环境中提供有目的的活动和经验。儿童早期所形成的错误可以在3-6岁的阶段被修复。
 
-Functions功能} develop normally through activity in the environment. When there is a lack缺乏不足} of physical or physical nourishment食物、滋养品}, suppressions抑制、压抑} occur. We can think of the child as a silhouette剪影}, with the outline of the future man around it. Deviations背离、偏离} result from shocks打击、震惊} and hurts. The only remedy补救方法} is to give ordered activity and experience in the environment. Errors of the early years can be corrected in the period from 3-6 years.
+Functions功能 develop normally through activity in the environment. When there is a lack缺乏不足 of physical or physical nourishment食物、滋养品, suppressions抑制、压抑 occur. We can think of the child as a silhouette剪影, with the outline of the future man around it. Deviations背离、偏离 result from shocks打击、震惊 and hurts. The only remedy补救方法 is to give ordered activity and experience in the environment. Errors of the early years can be corrected in the period from 3-6 years.
 
-## 解决社会问题-Solving the social problem}
+## 解决社会问题-Solving the social problem
 
 0-3岁的儿童创造了成人，紧接着他就进入了这个世界并且忘记了自己的早年生活。3岁时，儿童需要和其他儿童展开社交，在这个年龄段，孩子会模仿比他年长的人。在3-6岁，儿童的缺陷会被更多地修复。每次习得都被发展和完善，比如语言的吸收。老师必须注意使用正确的语言。理解不是一种抽象的概念，它必须在人类形成的过程中发展。理解、兄弟等概念在儿童0-3岁时早早来到，在3-6岁时就会变稳固，而非到了成人。
 
-From 0-3 years,the child creats man, then he goes into the world and forgets his early years. At 3 years, children need the society of other children. At this age, children imitate模仿} the older ones. From 3-6 years, defects缺陷不足} become more fixed. Every acquisition获得} is developed and pefected, e.g.the absorption吸收} of language. Teachers must pay attention to correct正确的、改正} language. Understandiing is not an abstract抽象} idea; it must develop during the periods of the formation形成} of man. Understanding, brotherhood, etc. come early to children of 0-3 years and be fixed in children of 3-6 years, but not in adults.
+From 0-3 years,the child creats man, then he goes into the world and forgets his early years. At 3 years, children need the society of other children. At this age, children imitate模仿 the older ones. From 3-6 years, defects缺陷不足 become more fixed. Every acquisition获得 is developed and pefected, e.g.the absorption吸收 of language. Teachers must pay attention to correct正确的、改正 language. Understandiing is not an abstract抽象 idea; it must develop during the periods of the formation形成 of man. Understanding, brotherhood, etc. come early to children of 0-3 years and be fixed in children of 3-6 years, but not in adults.
  
-## 工作和玩耍-Work and play}
+## 工作和玩耍-Work and play
 
 通常人们认为，3-6岁的儿童通过游戏塑造自己的性格。在穷人（买不起玩具）中我们看到了这个形成期的真正特征：儿童有在游戏中工作的倾向，通过模仿成人的动作。要形成和保持我们的智力必须利用我们的双手。一些新的成果已经被发现：儿童工作非常认真而且注意力非常集中。只有由智能引导的活动（用手）才会产生这种现象。儿童必须通过在环境中工作获得精确的理疗，我们必须为儿童提供构建统一人格的手段。
 
-It is generally thought that children at the age of 3-6 play and form their characters through play. Among poor people(who cannot afford toys) we see the real characteristics of this formative形成的} period: small children have a tendency to work in their play, imitating the actions of the adults. To form and maitain保持} our intelligence we must use our hands. Something new has been revealed: children work seriously and have great powers of concentration. Only activity(with the hands), guided by the intelligence, can produce this. Children must form the power of exactness正确} through work in the environment. We must give the child the means to construct to unification统一联合} of his personality.
+It is generally thought that children at the age of 3-6 play and form their characters through play. Among poor people(who cannot afford toys) we see the real characteristics of this formative形成的 period: small children have a tendency to work in their play, imitating the actions of the adults. To form and maitain保持 our intelligence we must use our hands. Something new has been revealed: children work seriously and have great powers of concentration. Only activity(with the hands), guided by the intelligence, can produce this. Children must form the power of exactness正确 through work in the environment. We must give the child the means to construct to unification统一联合 of his personality.
 
-## 动作和性格-Movement and character}
+## 动作和性格-Movement and character
 
 身体就像一台非常复杂的机器。人的思想必须能够根据他所处的环境让这台机器工作。这个工作的本质就是智能的运动。意志和肌肉之间存在着一定关系，儿童的自由行动改变了他们的个性。所有有目的的智能运动都是正确的发展方式。比如体育。日常生活的练习是自然的练习，所有像这样自然的工作都会发展孩子的个性，前提是必须先有兴趣。
 
-The body is like a very complicated machine. The mind of man must be able tu make this machine work according to the circumstances环境条件} in which he finds himself.The essence本质} is about intelligent movement.There is a relationship between the will and the muscles.The child who acts freely changes character.All purposeful果断的、有坚定目标的} and intelligent movement is about the right way to develop.About gymnastics. Exercises of Practical Life are natural exercises. All natural work like this develops character. We must have interest first.
+The body is like a very complicated machine. The mind of man must be able tu make this machine work according to the circumstances环境条件 in which he finds himself.The essence本质 is about intelligent movement.There is a relationship between the will and the muscles.The child who acts freely changes character.All purposeful果断的、有坚定目标的 and intelligent movement is about the right way to develop.About gymnastics. Exercises of Practical Life are natural exercises. All natural work like this develops character. We must have interest first.
 
-## 手-Hands}
+## 手-Hands
 
 生命在于运动。世界的创造就是所有这些有目的的运动的融合。当我们谈到人和动物的行为时，指的就是他们有目的的动作。动作和手的运用有助于感官的发展。手是内在生命的器官。无意识的生命是大自然控制的。从3-6岁开始，儿童开始变得有意识，他必须通过意志的努力来建构自己，我们必须了解这两种发展。
 
 All life is movement. The creation of the world is a harmony of all these movements with purpose. When we speak about behaviour, both of men and animals, we refer to their purposeful movements. Movement and the use of the hands are a help to the development of the senses. Hands are organs of the inner life. During the unconscious life, nature commands. From 3-6 years, the child is conscious; he has to construct through an effort of the will. We must understand these two kinds of development.
 
-## 想象力的建构-The construction of the imagination}
+## 想象力的建构-The construction of the imagination
 
 不同的年龄的智能建构有不同的阶段。动物的智能在于能够识别事物。人类的智能在于想象，这是人类智能的真实形式。人可以想象并不存在的事物并且构建它们。想象力贯穿人的一生。
 
 There are different stages in the construction of the intelligence in the different ages.The intelligence of animals consists of being able to recognize things.Man's intelligence is imaginative, the true form of his intelligence. Man can imagine things that are not present and construct them.Unconcious activity is connected with the construction of intelligence. Imagination lasts throughout life.
 
-## 教育的扩展-Expansive education}
+## 教育的扩展-Expansive education
 
 儿童的知识依附于当下。年幼的孩子拥有吸收性心智，吸收性心智会变得越来越有意识。从广义上讲，儿童的吸收性心智可以吸收任何东西，大自然赋予了儿童这种隐藏而普遍的力量。人类之间的差别不是从生命的一开始就出现的，而是随着它们之后的机会。进步伴随着发现和想象力的建构而来。从生命之初，我们就必须给予孩子远见和活动的机会。
 
-The knowledge of the child is attached to the present. The young child has an absorbent mind,which becomes more and more conscious. The absorbent mind of little children can take in anything, in the broadest宽广的} sense感官、常识}. Nature gives this hidden and universal power to the little children. The differences between men do not come in the begining of life, but with the opportunities they have afterwards. Progress进步} comes with discoveries, with imaginative constructions. From the begining of life, we must give the child the vision and the opportunities to be active.
+The knowledge of the child is attached to the present. The young child has an absorbent mind,which becomes more and more conscious. The absorbent mind of little children can take in anything, in the broadest宽广的 sense感官、常识. Nature gives this hidden and universal power to the little children. The differences between men do not come in the begining of life, but with the opportunities they have afterwards. Progress进步 comes with discoveries, with imaginative constructions. From the begining of life, we must give the child the vision and the opportunities to be active.
 
-## 真相和童话-Truth and Fairy tales}
+## 真相和童话-Truth and Fairy tales
 
 儿童可以从环境中获得很多知识，但智能通过他们的活动。小孩子一开始用手工作就会对外部世界充满兴趣。儿童也拥有从成人所讲的故事中学习的能力。我们可以给予儿童想童话一样的故事并以故事的名义给予他们知识。例如，历史可以是一种建构想象力的练习，我们不能认为想象力只有通过童话才能发挥作用，知识必须通过想象力来获得而不是通过记忆。改革绝不是教学大纲的改革，而是深刻的心理改革。
 
-Children are capable of takeing in much knowledge from the environment, but only through their activity. Small children begin to work with their hands and are very interested in things of the external world. Children also have the capacity能力} to learn from stories told by an adult.We can give them stories which are like fairy-tales and give knowledge in the guise外观伪装} of stories. For example,history can be an exercise in imaginative construction. We must not think that the imagination works only through fairy-tales. Knowledge must be taken in through imagination and not through memorization. Reform must not be a reform of the syllabus教学大纲、摘要} but a deep psychological reform.
+Children are capable of takeing in much knowledge from the environment, but only through their activity. Small children begin to work with their hands and are very interested in things of the external world. Children also have the capacity能力 to learn from stories told by an adult.We can give them stories which are like fairy-tales and give knowledge in the guise外观伪装 of stories. For example,history can be an exercise in imaginative construction. We must not think that the imagination works only through fairy-tales. Knowledge must be taken in through imagination and not through memorization. Reform must not be a reform of the syllabus教学大纲、摘要 but a deep psychological reform.
 
-## 抽象-Abstraction}
+## 抽象-Abstraction
 
 心智不仅具有接纳性，而且是不断活跃且具有建设性的。心智的发热是一个自然的成长过程。我们无法想象任何一种绝对新颖的事物，我们必须从环境中获得大量的想象。环境是心智的一部分，心智中脑海中的想象导致了抽象（概括）。一些材料代表所谓的‘物化抽象’。我们提供感官材料帮助孩子发展心智的秩序。智能是可以区分的，我们通过抽象、符号和综合建构我们的心智。
 
-The mind is not merely receptive but continuously active and constructive. Mental development is a natural process of growth. We can not imagine anything absolutely new; we must be able to take a quantity数量、大量} of images from the environment. The environment plays a part in relation to the mind. Images in the mind lead to abstractions (generalizations一般化、归纳}). Certain materials represent so-called "materialized abstractions". We give the sensorial material as a help to the development and the order of the mind. Intelligence is being able to distinguish. We construct our mind through abstractions, through symbols, and through synthesis综合}.
+The mind is not merely receptive but continuously active and constructive. Mental development is a natural process of growth. We can not imagine anything absolutely new; we must be able to take a quantity数量、大量 of images from the environment. The environment plays a part in relation to the mind. Images in the mind lead to abstractions (generalizations一般化、归纳). Certain materials represent so-called "materialized abstractions". We give the sensorial material as a help to the development and the order of the mind. Intelligence is being able to distinguish. We construct our mind through abstractions, through symbols, and through synthesis综合.
 
-## 宗教教育-Religious education}
+## 宗教教育-Religious education
 
 宗教教育必须以儿童的心理为基础。语言和宗教是人类每个群体都拥有的两种特征。我们不能把宗教给予孩子，而是必须看到它的发展（通过环境的影响）。从出生到6岁，儿童必须找到宗教的滋养（通过吸收）。没有一种宗教对孩子来说太神圣了，他们就像吸收语言一样吸收宗教。区别精神发展的三个阶段。
 
-The teaching of religion must be based on the psychology心理} of children. Language and religion are the two characteristics of every group of men.We must not give religion to children; instead, we must see it develop (through the influence of the environment). From birth to 6, children must find religious nourishment (through absorption). No piece is too sacred神圣的} for children. They absorb religion as they absorb language. Distinction区别} beteen three stages in the development of the soul.
+The teaching of religion must be based on the psychology心理 of children. Language and religion are the two characteristics of every group of men.We must not give religion to children; instead, we must see it develop (through the influence of the environment). From birth to 6, children must find religious nourishment (through absorption). No piece is too sacred神圣的 for children. They absorb religion as they absorb language. Distinction区别 beteen three stages in the development of the soul.
 
-## 道德教育-Moral education}
+## 道德教育-Moral education
 
 道德是源于与他人的社会关系的准则。我们不能有一个道德教育的大纲因为必要的内容与某一发展阶段密切相关。‘困难的儿童’会持续到7岁？原因肯定在于缺乏了一些对于生活至关重要的因素。我们必须考虑到，从家长的观点来看，7-12岁是一段快乐的时期，这个年龄段的孩子对问题的好与坏特别感兴趣。到了青春期13-15岁，孩子会有很多问题需要深入研究。
 
-Morals are a code章程、密码} originating from a social relationship with other people. We cannot have one programme规划大纲} for moral education because what is necessary will be closely related to a certain plane of development. "Difficult children" until 7 years of age? The cause must lie in在于} the lack of some element essential for life. We must consider that,from the parents' point of view看法意见}, 7-12 is the happy period. The children at this age are interested in questions of good and bad. With adolescence青春期} 13-15 there are many problems that require deep study.
+Morals are a code章程、密码 originating from a social relationship with other people. We cannot have one programme规划大纲 for moral education because what is necessary will be closely related to a certain plane of development. "Difficult children" until 7 years of age? The cause must lie in在于 the lack of some element essential for life. We must consider that,from the parents' point of view看法意见, 7-12 is the happy period. The children at this age are interested in questions of good and bad. With adolescence青春期 13-15 there are many problems that require deep study.
 
-## 正常化-Normalization}
+## 正常化-Normalization
 
 成人必须适应时代的需求。道德教育与精神生活和社会相关。道德的教导是间接的。成人、孩子和环境是三位一体的。自然捍卫身体的发展，心灵的发展没有这么强的防御能力。大自然会给予一些帮助，比如母爱。环境存在很多导致偏差的障碍。心智的饥饿和活动的缺乏会导致压抑。通过正常化所有的能量都统一起来，一个新的人类就会出现。
 
-Adults must adapt themselves to the needs of the times.Moral education is correlated to psychic精神的} life and society. The teaching of morality is indirect. The adult, the child and the environment are a trinity三合一}. Nature defends physical development, psychic心灵的} development does not have such a strong defence. Nature gives some help, e.g. maternal母亲的} love. the environment holds many obstacles障碍物} that cause deviations. Repressions压抑} are a result of mental starvation饥饿} and lack of activity. Through normalization all the energies are unified统一的} and a new person can emerge.
+Adults must adapt themselves to the needs of the times.Moral education is correlated to psychic精神的 life and society. The teaching of morality is indirect. The adult, the child and the environment are a trinity三合一. Nature defends physical development, psychic心灵的 development does not have such a strong defence. Nature gives some help, e.g. maternal母亲的 love. the environment holds many obstacles障碍物 that cause deviations. Repressions压抑 are a result of mental starvation饥饿 and lack of activity. Through normalization all the energies are unified统一的 and a new person can emerge.
 
-## 转变后的儿童-The converted children}
+## 转变后的儿童-The converted children
 
 不同形式的“顽皮”都会通过专注而消失。专注将练习与儿童内在的某些东西相联系。正常化的产生也是通过专注。如果要帮助内部重建，必须考虑两件事情：我们要做什么才能让这种重建实现？我们该怎么做才能帮助之后的发展？
 
@@ -644,11 +644,11 @@ delinquents; it organizes delinquency. So, there are two points to be
 considered. The first is the most difficult, for you must first convert
 yourself and understand this new way of thinking.
 
-## 新老师-The new teacher}
+## 新老师-The new teacher
 
 我们的眼睛必须经过训练来观察专注的现象。警告我们不要打扰一个正在专注的孩子。当儿童达到了正常化，就需要一种新型的老师了，谁能帮助儿童实现正常化。老师必须端庄，也要有吸引力。
 
-Our eyes must be trained for observation of the phenomenon of concentration. Warnings not to disturb a concentrating child. When children become normalized, a new type of teacher is needed. Who can help normality. The teacher must be dignified庄严高尚} as well as attractive.
+Our eyes must be trained for observation of the phenomenon of concentration. Warnings not to disturb a concentrating child. When children become normalized, a new type of teacher is needed. Who can help normality. The teacher must be dignified庄严高尚 as well as attractive.
 
 Concentration is a part of life, not the consequence of a method of
 education. All these deviations I have talked about are not illnesses
@@ -899,27 +899,27 @@ dignified. The children will feel a sense of security when they are
 near this superior person. The teacher must be everything that is
 perfect.
 
-## 社会凝聚力-A society by cohesion凝聚力}}
+## 社会凝聚力-A society by cohesion凝聚力
 
 当专注的现象产生后，儿童就变成了新儿童。专注不仅治愈了缺陷，还释放出了一种新的能量，产生了很多活动的新的态度。在7岁左右，另一个新的社会组织开始了：一种轻轻松松就可以适应的社会环境。学校就是一个社会，3岁年龄段的孩子形成了一个有凝聚力的群体。如果孩子在这个年龄拥有发展的自由，成果就会在成年时体现出来。
 
-After the phenomenon of concentration, the children are really new children. Concentration does not only cure defects, it unleashed释放出来} a new power, resulting in many activities and new attitudes. At around 7 years of age, another social organization begins: an easy adaption适应} to the social environment. The school is a society, and the children, in their three-year age groups, form a cohesive group. If the child has freedom of development at this age, the result will be seen in adulthood.
+After the phenomenon of concentration, the children are really new children. Concentration does not only cure defects, it unleashed释放出来 a new power, resulting in many activities and new attitudes. At around 7 years of age, another social organization begins: an easy adaption适应 to the social environment. The school is a society, and the children, in their three-year age groups, form a cohesive group. If the child has freedom of development at this age, the result will be seen in adulthood.
 
-I have spoken about how children learn to concentrate and how a teacher must not interfere干涉，干预，介入} with her children at the moment of concentration. At other times, a teacher must use her common sense – she can interfere, but she must not interfere and break concentration.
+I have spoken about how children learn to concentrate and how a teacher must not interfere干涉，干预，介入 with her children at the moment of concentration. At other times, a teacher must use her common sense – she can interfere, but she must not interfere and break concentration.
 
 After the children concentrate, it is really possible to give them freedom. The teacher must encourage the children's activity and give them many opportunities for activity. She must give them material – an abundance of material – because once these children concentrate, they become very active and very hungry for work. It is necessary to give them many things to do. The teacher must see that there are many possibilities for work in the environment.
 
-It is an interesting fact that after this phenomenon of concentration has occurred, children really are new children. They are capable of a kind of behavior and a level of activity not usually seen in children. It is as though a connection has been established with an inner power or with the subconscious潜意识} and this brings about the construction of the personality. We see that these children are active; they construct themselves in a wonderful way and are capable of work they could not do before. These children are a surprise to everybody.
+It is an interesting fact that after this phenomenon of concentration has occurred, children really are new children. They are capable of a kind of behavior and a level of activity not usually seen in children. It is as though a connection has been established with an inner power or with the subconscious潜意识 and this brings about the construction of the personality. We see that these children are active; they construct themselves in a wonderful way and are capable of work they could not do before. These children are a surprise to everybody.
 
-One of the things that they show us is an amazing reaction to written language. They learn to write with very little help – almost by themselves. The characteristic of language acquisition获得} at this stage is that children remember long and difficult words, words they may have heard only once. They have an inner sensitivity敏感} – they are still in the absorbent mind period – and this is similar to the sensitive敏感的} period for the creation of spoken language. Remembering long, incomprehensible无法理解的} words is difficult for an adult. We need to have the words written and spelled out for us. But with children there is an analysis of the inner language already in the mind. One sandpaper砂纸} letter will give a reaction – the child realizes that words are composed of sounds. Children of seven years do not react in this way. Only children at this early age, when they still have the sensitivity for language, do this.
+One of the things that they show us is an amazing reaction to written language. They learn to write with very little help – almost by themselves. The characteristic of language acquisition获得 at this stage is that children remember long and difficult words, words they may have heard only once. They have an inner sensitivity敏感 – they are still in the absorbent mind period – and this is similar to the sensitive敏感的 period for the creation of spoken language. Remembering long, incomprehensible无法理解的 words is difficult for an adult. We need to have the words written and spelled out for us. But with children there is an analysis of the inner language already in the mind. One sandpaper砂纸 letter will give a reaction – the child realizes that words are composed of sounds. Children of seven years do not react in this way. Only children at this early age, when they still have the sensitivity for language, do this.
 
-The power of the sensitive periods has been repressed压抑}. When it is freed it begins to work again. Concentration not only cures defects, it brings a new power that was dormant蛰伏的}. A door is opened and this internal power is set free. One of the manifestations显示} of this is an enthusiasm for the alphabet. They already have an inner sensitivity to language and this we might call an intellectual interest. It is like the expression of a new life – marvelous了不起的}. Now they have the possibility of perfecting their language.
+The power of the sensitive periods has been repressed压抑. When it is freed it begins to work again. Concentration not only cures defects, it brings a new power that was dormant蛰伏的. A door is opened and this internal power is set free. One of the manifestations显示 of this is an enthusiasm for the alphabet. They already have an inner sensitivity to language and this we might call an intellectual interest. It is like the expression of a new life – marvelous了不起的. Now they have the possibility of perfecting their language.
 
 Another thing that comes as a result of the phenomenon of concentration is an easy adaptation to the social environment. The school is a society. When men are together, they are in a society. Children, of course, are in society when they are at home, but the adaptation is different. Social life is everywhere – otherwise there would be no family, no country – it is the adaptation that is different. The difficulties of adaptation are not easily overcome. These new children adapt easily to everything, to work and to contact with others.
 
-This social sense is like a gift. Children do not usually adapt to contact with each other so easily, so this is a new phenomenon. It is perhaps a natural thing – something that allows easy communication between individuals – sympathy同情}, cooperation合作}, etc. I have called this society by cohesion. It does not come from any imposed强制实行} behavior, or even from imitative模仿的} behavior, and it is lacking in the world as we know it. It is, however, natural for these new children to form a society by cohesion.
+This social sense is like a gift. Children do not usually adapt to contact with each other so easily, so this is a new phenomenon. It is perhaps a natural thing – something that allows easy communication between individuals – sympathy同情, cooperation合作, etc. I have called this society by cohesion. It does not come from any imposed强制实行 behavior, or even from imitative模仿的 behavior, and it is lacking in the world as we know it. It is, however, natural for these new children to form a society by cohesion.
 
-It is normal for children to join together. This is a most fundamental fact. People who have observed this phenomenon say it is like an embryonic胚胎期的} society that has many aspects, one of which is reciprocal help. The older children help the smaller ones and the small ones help each other. They show respect for and interest in each other. For example, when a child does something difficult for the first time, such as writing on the blackboard, another will go and admire his work. If the first child says, ‘Please stay and see that no one rubs it out,’ the second child will remain, like a soldier, in charge of the other’s work. So there is admiration between the children and not envy. No teacher could tell children to admire and be interested in each other's work. Yet, in our schools everything anyone does is a beautiful thing to be admired by all, just as we admire the work of a great painter. It is not emulation but admiration – it is very spontaneous. When a child has the misfortune to break something he is extremely sorry, because when children have reached this stage they are not destructive. They are more than sorry. If they break anything, they are greatly concerned – but they handle the material so well that it is not often that anything is spoiled. If a child does break something, the others come and comfort him. They leave their work and help him pick up the pieces.
+It is normal for children to join together. This is a most fundamental fact. People who have observed this phenomenon say it is like an embryonic胚胎期的 society that has many aspects, one of which is reciprocal help. The older children help the smaller ones and the small ones help each other. They show respect for and interest in each other. For example, when a child does something difficult for the first time, such as writing on the blackboard, another will go and admire his work. If the first child says, ‘Please stay and see that no one rubs it out,’ the second child will remain, like a soldier, in charge of the other’s work. So there is admiration between the children and not envy. No teacher could tell children to admire and be interested in each other's work. Yet, in our schools everything anyone does is a beautiful thing to be admired by all, just as we admire the work of a great painter. It is not emulation but admiration – it is very spontaneous. When a child has the misfortune to break something he is extremely sorry, because when children have reached this stage they are not destructive. They are more than sorry. If they break anything, they are greatly concerned – but they handle the material so well that it is not often that anything is spoiled. If a child does break something, the others come and comfort him. They leave their work and help him pick up the pieces.
 
 Children can also be a moral help to each other. If one child in the class is a disturber, another child may go up to him and say something like, ‘You are a little naughty, but never mind, we were all naughty once and now we are good. You must become good too.’ A teacher could not teach things like this. She could not console or comfort a person for his badness. To the child, however, the misconduct of another child is simply a misfortune, and this other child must be comforted and supported.
 
@@ -960,4 +960,4 @@ You must see these new children in this new light. Inside man is a hidden nature
 
 This is the law of the little child's world. They abolish law and, as in Christianity, only love remains. It is essential to understand this. We must observe and study this marvelous phenomenon.
 
-\end{document}
+\end{document
