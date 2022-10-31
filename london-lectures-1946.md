@@ -113,7 +113,7 @@ Education is the help we must give to life so that it may develop in the greatne
 
 Before we can give help, we must understand; we must follow the path from childhood to adulthood. If we can understand, we can help and this help must be the plan of our education: to help man to develop not his defects, but his greatness.
 
-\chapter{科学教育-Scientific Pedagogy}
+## 科学教育-Scientific Pedagogy
 
 蒙台梭利讲述了如何运用科学来转变、丰富并发展人的个性，并发现了敏感期。教育者应该以孩子们所显露出来的隐藏的能量为引导。
 
@@ -199,175 +199,175 @@ When I say that we must take the child as our teacher you will probably object, 
 
 Therefore, I would call this the Child's Method, not the Montessori Method.
 
-\chapter{基于心理学的教育-Education based on psychology}
+## 基于心理学的教育-Education based on psychology}
 
 儿童心理的发展来自于手的运动，这对于发现儿童精神生活的表现非常重要。人类的精神生活在于敏感期，因此生命最开始的时间是最重要的阶段，针对儿童的研究对于帮助人类的成熟非常重要。
 
 Importance of discovering the manifestations显示、表现} of the psychic心灵的} life of little children. They revealed that development of the mind comes through movements of the hand. Sensitive periods in the psychic life of man. The begining of life is the most important period. Study of the child is important to help maturing成熟} humanity.
 
-\chapter{发展阶段-The planes of development}
+## 发展阶段-The planes of development}
 
 发展阶段：0-6岁，6-12岁，12-18岁。生命按照自然的法则不断成长，不同发展阶段的特征表明进步不是线性的，传统教育的错误前提之一在于它没有考虑自然的能量。
 
 Planes of development: 0-6,6-12,12-18years. Life grows according to natural laws. Characteristics of periods of development that show that progress进步发展} is not linear线性}. One of the false premises前提} of traditional education is that it does not take account the energies of nature.
 
-\chapter{遗传和创造-Heredity遗传} and creation}
+## 遗传和创造-Heredity遗传} and creation}
 
 生命最重要的时期就是人出生后的头两年，这里指精神的创造而非肉体的成长。动物被局限在它们的遗传特征上，人类却可以做任何事情。小孩子从环境中汲取能量来构建人类的心智，它们通过运用嗅觉、味觉和触觉成为先期的创造者。
 
 The most important period of human life is that of the first two years, which sees psychic creation rather than growth. Animals are limited to their hereditary characteristics; man can do everything. The small child takes from his environment, is able to construct the mind of man. He is a pro-creator. Function of the senses of smell, taste and touch.
 
-\chapter{无意识的心理-The psychology of the unconscious}
+## 无意识的心理-The psychology of the unconscious}
 
 描述一个婴儿身体的协调和人类大脑的重要性。蒙台梭利将注意力集中在了婴儿眼睛的力量与意识的形成有关。儿童经历了从无意识到潜意识的连续步骤，然后通过逐渐的发展达到清晰的意识层次。孩子必须作为所有环境的一部分并尽可能多地接触到语言。
 
 Description of physical proportions协调} of a baby, and the importance of the human brain. Montessori draws attention to the power of a baby's eyes, in connection with the formation形成} of consciousness. The child goes through successive连续的} steps from the unconscious to the subconscious and so arrives at clear consciousness by gradual development. The child must be a part of all enviroments and hear language as often as possible.
 
-\chapter{从出生开始的教育-Education from birth}
+## 从出生开始的教育-Education from birth}
 
 意识建立在个体身上，为了发展语言，未受损害的听觉是非常必要的，小孩子会被人类的声音深深打动。尽管小孩子没有语言，但他对此有敏感性，他不需要老师而是从环境中吸收语言。儿童在无意识中具有一种不同于我们有意识的人所拥有的任何力量。孩子的吸收性心智需要生命和环境。
 
 Consciousness is built up in the individual. In order to develop language, an unimpaired sense of hearing is necessary. The little child is deeply touched by the sound of the human voice. Although the very young child does not "have" language, his sensibility敏感性} is in place在适当位置}; it is absorbed from the environment and without a teacher. The child possesses具有}, in his unconscious, a power different from any we possess as conscious people. The child's absorbent mind needs life and an environment.
 
-\chapter{语言的发展-The development of language}
+## 语言的发展-The development of language}
 
 口语和听觉语言是两种不同的发展，听觉语言是第一个发展的。我们要区分语言隐藏而复杂的准备（潜意识）和外在的表达（下意识）。语言的发展不是逐步地而是有间断的。经过一年的学习和努力后，才会说出第一个有意义的词汇，紧接着就会理解到不同种类的词汇。
 
 Spoken and auditory听觉的} language are two different developments; auditory language is the first one to develop. We differentiate between the hidden and complex preparation of language (subconscious) and the external expression (conscious). Language does not develop gradually but at intervals. After a year of "study" and effort the first intentional有意的} word is spoken, followed by an understanding of different kinds of words.
 
-\chapter{与自然的不和谐-Inharmony不和谐} with nature}
+## 与自然的不和谐-Inharmony不和谐} with nature}
 
 两年后，孩子对语言的内在兴趣得到满足，他的主要兴趣转向了环境。在这个阶段，孩子需要在环境中的得到帮助及鼓励。
 
 After two years, a kind of inner interest for language is satisfied and the child's main interest shifts to the environment. At this stage the child needs help in the environment and encouragement.
 
-\chapter{解锁智能-Unlocking the intelligence智力}}
+## 解锁智能-Unlocking the intelligence智力}}
 
 对感官教具的描述帮助孩子从环境中获得清晰的印象，感官的独立，再引入对立和渐变，观察和智能也会得到提升，如果渐变是精准的，感知的清晰度也会随之提升。
 
 Description描述} of sensorial materials that help the child acquire clear impressions from the environment. With the help of introducing opposites对立} and gradation渐变} both observation and intelligence are refined提炼、改善}, e.g. if the gradation is measured测量过的、有标准的}, the clarity清晰} of perception感知、觉察} improves. Isolation of the senses.
 
-\chapter{社会发展和适应-Social development and adaptation}
+## 社会发展和适应-Social development and adaptation}
 
 智能教育与智能发展有关。道德和社会教育与社会的职业生活有关。孩子从出生以来就必须在环境中为社会生活做好准备，无论是适应还是他的行为。动物拥有遗传的适应能力，人类必需为自己建构。动物的身体是心理功能的工具，心理功能是首先被创建出来的；身体是为心理功能服务的。在人出生后的头两年，孩子必需建构适应所在的群体。
 
 Intellectual education is concerned with intellectual development. Moral道德的、精神的} and social education are concerned with the active积极的、主动的} life职业生活、有效寿命} of society. The child must be prepared for social life in the environment from birth. Adaptation and behaviour. Aninmals have a hereditary遗传的} power to adapt; man has to construct for himself. The animal body is the instrument of his psychic心灵的} functions. The function is created first; the body is at the service of the function. During the first two years, the child has to construct the adaptation to his group.
 
-\chapter{人和超自然-Man and supernature超自然}}
+## 人和超自然-Man and supernature超自然}}
 
 人和环境以及他对环境的适应有关，这是一项极其重要的任务。适应环境是人的第一要务。每只动物都是一个中介，致力于环境中所有事物的和谐关系，生物不单单为自己工作，大自然有其自己的秩序，这其中一切都是相关的。生命都具有两面性：一面是有意识，一面是无意识，人类也是如此。人要准备好自己对环境的适应，这就必需通过双手的工作来改变环境。
 
 Man is correlation with the environment and his adaptation to it. Cosmic宇宙的巨大的} tasks. Adaptation to the environment is the first necessity. Each animal is an agent中介、代理} who works for a harmonious correlation of all things in the environment. Living beings do not work for themselves alone. There is an order in nature, where all is correlated. Two sides of life:one conscious, the other unconscious. The same goes for humankind. Man prepares his own adaptation to the environment, and must modify修改} the environment especially through work with his hands.
 
-\chapter{人的研究-The study of man}
+## 人的研究-The study of man}
 
 只有让孩子更加适应文明的未来时，我们才能帮助人类。帮助人类创造社会，某些本能是必不可少的，比如原始的移动本能，还有保持在一个地方的倾向。其他方面包括语言、用手的工作、对音乐的喜欢和态度、宗教、对祖国的热爱以及道德准则。一个群体会构建出一种特别的个性，适应不仅表现在地理层面，还体现在精神层面。我们必须把儿童视为改变人类的手段。
 
 We can only help man if we did the child to be more adapt to the future of civilization. To help men creat society, certain肯定、某些} instincts本能、天性} are indispensable必不可少的}, such as a primitive原始的} instinct to move, yet also the tendency to remain in one place. Other aspects include,language and work of the hands, joy and sentiments态度} for music, religion, love for the country, and moral codes章则}. A group constructs a special character. Adaptation is performed not only on the geographical side, but also on the psychic side. We must look to the children as the means to bringing a change to humanity.
 
-\chapter{新生儿的心理特点-The psychology心理学、心理特点} of the newborn}
+## 新生儿的心理特点-The psychology心理学、心理特点} of the newborn}
 
 正是儿童的活动建立了人的思想。儿童拥有精神胚胎。新生儿必须努力去适应外部世界。从出生便开始的教育需要身体和精神的双重“卫生”。人类的任务是把自然界的所有都提升到更高的高度蒙台梭利否定了精神分析学家的论点，即可怕的出生经历（出生恐惧）是某些异常情况的原因。正常的孩子会从一种独立走向另一种独立，独立是成长的现象，一开始我们看到的是身体的习得：比如牙齿、行走和语言。
 
 It is the activity of the child that builds the mind of man.The child is a spiritural embryo. The newborn must make a great effort to adapt to the external world. Education from birth needs both physical and psychic "hygiene"卫生}. It is man's task to raise抚养、提升} everything that is in nature to a greater height高处}. Montessori invalidates使无效作废} the arguments争吵、论证} by psychoanalysts精神分析学家} that the terrifying experience of birth(i.e. "birth terror") is the cause of certain abnormalities异常情况}. Normal children go from one independence to another. Independence is a phenomenon of growth. At first we see physical acquisitions获得}: teeth, walking, language.
 
-\chapter{触摸-Touch}
+## 触摸-Touch}
 
 除了身体，我们还必须给予儿童精神上的照顾。自发且充满深情的对待孩子可以帮助他们的发展。儿童不仅想要身体上的营养，还想要精神上的滋养。
 
 We must give children spiritural as well as physical care. Spontaneous自发的、无意识的} affectionate慈爱的、充满深情的} treatment处理、对待} helps the child's development. Little children want not only physical nourishment营养}, they want mental精神的、头脑的、心灵的} nourishment too.
 
-\chapter{自发的活动-Spontaneous activity}
+## 自发的活动-Spontaneous activity}
 
 小孩子可以非常超前。在或多或少的教育下，它们征服了独立。他们喜欢搬重东西，做困难的事情，他们有一种内在驱动力来付出最大程度的努力。儿童有模仿的倾向（去适应这个世界）但首先必须有所准备。有一种活动周期会给孩子带来协调的动作，孩子依赖世界来接受他，给他快乐所需要的东西，让他拥有良好的品格，他还想要适合的环境和合适的精神理疗。
 
 Small children can be very advanced超前的先进的}. With more or less educated hands, they conquer征服} independence. They like to carry heavy things and do difficult things-they have an inner drive to exert运用、发挥} the maximum effort. Children have a tendency to imitate (to adapt to this world) but first there must be a preparation. There is a cycle of activity which brings coordinated movement. The child depends on the world to receive him, to give him what he needs to become happy, to have a good character, he wants the right environment and the right psychic treatment治疗}.
 
-\chapter{创造的能量-The energy能量、精神} of creation}
+## 创造的能量-The energy能量、精神} of creation}
 
 生命的自然冲动迫使孩子的身体从一开始的被动变得活跃。首先孩子会移动他的头，然后是肩膀，然后是手。他必须尽可能多地做他当时能做的，我们必须给予他明智的鼓励。我们必须区分有意识的人格的意志和自然的意志，这种自然的意志是在有意识的人格的意志发展之前出现的。小脑是平衡的器官，活动的器官有助于智力。人必须工作才能发展，我们必须给予孩子合适的条件然后在必要的时候给予鼓励和帮助。
 
 The natural urges鼓励、促使} of life force强迫、促使} the child's body, passive被动的} in the beginning, to become active. First the child moves the head, then the shoulders, then the hands. He must do just as much as he is able to do at the time and we must give him intelligent聪明的} encouragement. We must make a distinction区别} between the will意志、意图} of a conscious personality人格、个性} and the will of nature which comes before the development of concious will. The cerebellum小脑} is the organ of equilibrium平衡}. The organs of activity help the intellect. Man must work in order to develop. We must give the child the right conditions and then encouragement and help when necessary.
 
-\chapter{独立教育-Education for independence}
+## 独立教育-Education for independence}
 
 经过一段时间的大量活动后就会有一段时间的休息。在第二年的上半年，有许多活动周期为未来的运动作准备。儿童喜欢走路，成人必须和他一起走，反之亦然。让孩子走路并且注意他是怎么走的：他是在探索环境。
 
 After a period of great activity comes a period of rest. During the first half of the second year there are many cycles of activity in preparation for future movement. The child likes to walk, the adult must walk with him, and not vice versa反过来也一样}. Let the child walk, and notice how he walks:he explores the environment.
 
-\chapter{最重要的年纪-The most important age}
+## 最重要的年纪-The most important age}
 
 儿童的各种功能通过环境中的活动得以正常地发展。当身体或者身体营养不足时，就要产生抑制。我们可以把孩子想象成一个剪影，在他的周围是未来人类的轮廓。偏离来源于打击和伤害，唯一的补救方法就是在环境中提供有目的的活动和经验。儿童早期所形成的错误可以在3-6岁的阶段被修复。
 
 Functions功能} develop normally through activity in the environment. When there is a lack缺乏不足} of physical or physical nourishment食物、滋养品}, suppressions抑制、压抑} occur. We can think of the child as a silhouette剪影}, with the outline of the future man around it. Deviations背离、偏离} result from shocks打击、震惊} and hurts. The only remedy补救方法} is to give ordered activity and experience in the environment. Errors of the early years can be corrected in the period from 3-6 years.
 
-\chapter{解决社会问题-Solving the social problem}
+## 解决社会问题-Solving the social problem}
 
 0-3岁的儿童创造了成人，紧接着他就进入了这个世界并且忘记了自己的早年生活。3岁时，儿童需要和其他儿童展开社交，在这个年龄段，孩子会模仿比他年长的人。在3-6岁，儿童的缺陷会被更多地修复。每次习得都被发展和完善，比如语言的吸收。老师必须注意使用正确的语言。理解不是一种抽象的概念，它必须在人类形成的过程中发展。理解、兄弟等概念在儿童0-3岁时早早来到，在3-6岁时就会变稳固，而非到了成人。
 
 From 0-3 years,the child creats man, then he goes into the world and forgets his early years. At 3 years, children need the society of other children. At this age, children imitate模仿} the older ones. From 3-6 years, defects缺陷不足} become more fixed. Every acquisition获得} is developed and pefected, e.g.the absorption吸收} of language. Teachers must pay attention to correct正确的、改正} language. Understandiing is not an abstract抽象} idea; it must develop during the periods of the formation形成} of man. Understanding, brotherhood, etc. come early to children of 0-3 years and be fixed in children of 3-6 years, but not in adults.
  
-\chapter{工作和玩耍-Work and play}
+## 工作和玩耍-Work and play}
 
 通常人们认为，3-6岁的儿童通过游戏塑造自己的性格。在穷人（买不起玩具）中我们看到了这个形成期的真正特征：儿童有在游戏中工作的倾向，通过模仿成人的动作。要形成和保持我们的智力必须利用我们的双手。一些新的成果已经被发现：儿童工作非常认真而且注意力非常集中。只有由智能引导的活动（用手）才会产生这种现象。儿童必须通过在环境中工作获得精确的理疗，我们必须为儿童提供构建统一人格的手段。
 
 It is generally thought that children at the age of 3-6 play and form their characters through play. Among poor people(who cannot afford toys) we see the real characteristics of this formative形成的} period: small children have a tendency to work in their play, imitating the actions of the adults. To form and maitain保持} our intelligence we must use our hands. Something new has been revealed: children work seriously and have great powers of concentration. Only activity(with the hands), guided by the intelligence, can produce this. Children must form the power of exactness正确} through work in the environment. We must give the child the means to construct to unification统一联合} of his personality.
 
-\chapter{动作和性格-Movement and character}
+## 动作和性格-Movement and character}
 
 身体就像一台非常复杂的机器。人的思想必须能够根据他所处的环境让这台机器工作。这个工作的本质就是智能的运动。意志和肌肉之间存在着一定关系，儿童的自由行动改变了他们的个性。所有有目的的智能运动都是正确的发展方式。比如体育。日常生活的练习是自然的练习，所有像这样自然的工作都会发展孩子的个性，前提是必须先有兴趣。
 
 The body is like a very complicated machine. The mind of man must be able tu make this machine work according to the circumstances环境条件} in which he finds himself.The essence本质} is about intelligent movement.There is a relationship between the will and the muscles.The child who acts freely changes character.All purposeful果断的、有坚定目标的} and intelligent movement is about the right way to develop.About gymnastics. Exercises of Practical Life are natural exercises. All natural work like this develops character. We must have interest first.
 
-\chapter{手-Hands}
+## 手-Hands}
 
 生命在于运动。世界的创造就是所有这些有目的的运动的融合。当我们谈到人和动物的行为时，指的就是他们有目的的动作。动作和手的运用有助于感官的发展。手是内在生命的器官。无意识的生命是大自然控制的。从3-6岁开始，儿童开始变得有意识，他必须通过意志的努力来建构自己，我们必须了解这两种发展。
 
 All life is movement. The creation of the world is a harmony of all these movements with purpose. When we speak about behaviour, both of men and animals, we refer to their purposeful movements. Movement and the use of the hands are a help to the development of the senses. Hands are organs of the inner life. During the unconscious life, nature commands. From 3-6 years, the child is conscious; he has to construct through an effort of the will. We must understand these two kinds of development.
 
-\chapter{想象力的建构-The construction of the imagination}
+## 想象力的建构-The construction of the imagination}
 
 不同的年龄的智能建构有不同的阶段。动物的智能在于能够识别事物。人类的智能在于想象，这是人类智能的真实形式。人可以想象并不存在的事物并且构建它们。想象力贯穿人的一生。
 
 There are different stages in the construction of the intelligence in the different ages.The intelligence of animals consists of being able to recognize things.Man's intelligence is imaginative, the true form of his intelligence. Man can imagine things that are not present and construct them.Unconcious activity is connected with the construction of intelligence. Imagination lasts throughout life.
 
-\chapter{教育的扩展-Expansive education}
+## 教育的扩展-Expansive education}
 
 儿童的知识依附于当下。年幼的孩子拥有吸收性心智，吸收性心智会变得越来越有意识。从广义上讲，儿童的吸收性心智可以吸收任何东西，大自然赋予了儿童这种隐藏而普遍的力量。人类之间的差别不是从生命的一开始就出现的，而是随着它们之后的机会。进步伴随着发现和想象力的建构而来。从生命之初，我们就必须给予孩子远见和活动的机会。
 
 The knowledge of the child is attached to the present. The young child has an absorbent mind,which becomes more and more conscious. The absorbent mind of little children can take in anything, in the broadest宽广的} sense感官、常识}. Nature gives this hidden and universal power to the little children. The differences between men do not come in the begining of life, but with the opportunities they have afterwards. Progress进步} comes with discoveries, with imaginative constructions. From the begining of life, we must give the child the vision and the opportunities to be active.
 
-\chapter{真相和童话-Truth and Fairy tales}
+## 真相和童话-Truth and Fairy tales}
 
 儿童可以从环境中获得很多知识，但智能通过他们的活动。小孩子一开始用手工作就会对外部世界充满兴趣。儿童也拥有从成人所讲的故事中学习的能力。我们可以给予儿童想童话一样的故事并以故事的名义给予他们知识。例如，历史可以是一种建构想象力的练习，我们不能认为想象力只有通过童话才能发挥作用，知识必须通过想象力来获得而不是通过记忆。改革绝不是教学大纲的改革，而是深刻的心理改革。
 
 Children are capable of takeing in much knowledge from the environment, but only through their activity. Small children begin to work with their hands and are very interested in things of the external world. Children also have the capacity能力} to learn from stories told by an adult.We can give them stories which are like fairy-tales and give knowledge in the guise外观伪装} of stories. For example,history can be an exercise in imaginative construction. We must not think that the imagination works only through fairy-tales. Knowledge must be taken in through imagination and not through memorization. Reform must not be a reform of the syllabus教学大纲、摘要} but a deep psychological reform.
 
-\chapter{抽象-Abstraction}
+## 抽象-Abstraction}
 
 心智不仅具有接纳性，而且是不断活跃且具有建设性的。心智的发热是一个自然的成长过程。我们无法想象任何一种绝对新颖的事物，我们必须从环境中获得大量的想象。环境是心智的一部分，心智中脑海中的想象导致了抽象（概括）。一些材料代表所谓的‘物化抽象’。我们提供感官材料帮助孩子发展心智的秩序。智能是可以区分的，我们通过抽象、符号和综合建构我们的心智。
 
 The mind is not merely receptive but continuously active and constructive. Mental development is a natural process of growth. We can not imagine anything absolutely new; we must be able to take a quantity数量、大量} of images from the environment. The environment plays a part in relation to the mind. Images in the mind lead to abstractions (generalizations一般化、归纳}). Certain materials represent so-called "materialized abstractions". We give the sensorial material as a help to the development and the order of the mind. Intelligence is being able to distinguish. We construct our mind through abstractions, through symbols, and through synthesis综合}.
 
-\chapter{宗教教育-Religious education}
+## 宗教教育-Religious education}
 
 宗教教育必须以儿童的心理为基础。语言和宗教是人类每个群体都拥有的两种特征。我们不能把宗教给予孩子，而是必须看到它的发展（通过环境的影响）。从出生到6岁，儿童必须找到宗教的滋养（通过吸收）。没有一种宗教对孩子来说太神圣了，他们就像吸收语言一样吸收宗教。区别精神发展的三个阶段。
 
 The teaching of religion must be based on the psychology心理} of children. Language and religion are the two characteristics of every group of men.We must not give religion to children; instead, we must see it develop (through the influence of the environment). From birth to 6, children must find religious nourishment (through absorption). No piece is too sacred神圣的} for children. They absorb religion as they absorb language. Distinction区别} beteen three stages in the development of the soul.
 
-\chapter{道德教育-Moral education}
+## 道德教育-Moral education}
 
 道德是源于与他人的社会关系的准则。我们不能有一个道德教育的大纲因为必要的内容与某一发展阶段密切相关。‘困难的儿童’会持续到7岁？原因肯定在于缺乏了一些对于生活至关重要的因素。我们必须考虑到，从家长的观点来看，7-12岁是一段快乐的时期，这个年龄段的孩子对问题的好与坏特别感兴趣。到了青春期13-15岁，孩子会有很多问题需要深入研究。
 
 Morals are a code章程、密码} originating from a social relationship with other people. We cannot have one programme规划大纲} for moral education because what is necessary will be closely related to a certain plane of development. "Difficult children" until 7 years of age? The cause must lie in在于} the lack of some element essential for life. We must consider that,from the parents' point of view看法意见}, 7-12 is the happy period. The children at this age are interested in questions of good and bad. With adolescence青春期} 13-15 there are many problems that require deep study.
 
-\chapter{正常化-Normalization}
+## 正常化-Normalization}
 
 成人必须适应时代的需求。道德教育与精神生活和社会相关。道德的教导是间接的。成人、孩子和环境是三位一体的。自然捍卫身体的发展，心灵的发展没有这么强的防御能力。大自然会给予一些帮助，比如母爱。环境存在很多导致偏差的障碍。心智的饥饿和活动的缺乏会导致压抑。通过正常化所有的能量都统一起来，一个新的人类就会出现。
 
 Adults must adapt themselves to the needs of the times.Moral education is correlated to psychic精神的} life and society. The teaching of morality is indirect. The adult, the child and the environment are a trinity三合一}. Nature defends physical development, psychic心灵的} development does not have such a strong defence. Nature gives some help, e.g. maternal母亲的} love. the environment holds many obstacles障碍物} that cause deviations. Repressions压抑} are a result of mental starvation饥饿} and lack of activity. Through normalization all the energies are unified统一的} and a new person can emerge.
 
-\chapter{转变后的儿童-The converted children}
+## 转变后的儿童-The converted children}
 
 不同形式的“顽皮”都会通过专注而消失。专注将练习与儿童内在的某些东西相联系。正常化的产生也是通过专注。如果要帮助内部重建，必须考虑两件事情：我们要做什么才能让这种重建实现？我们该怎么做才能帮助之后的发展？
 
@@ -644,7 +644,7 @@ delinquents; it organizes delinquency. So, there are two points to be
 considered. The first is the most difficult, for you must first convert
 yourself and understand this new way of thinking.
 
-\chapter{新老师-The new teacher}
+## 新老师-The new teacher}
 
 我们的眼睛必须经过训练来观察专注的现象。警告我们不要打扰一个正在专注的孩子。当儿童达到了正常化，就需要一种新型的老师了，谁能帮助儿童实现正常化。老师必须端庄，也要有吸引力。
 
@@ -899,7 +899,7 @@ dignified. The children will feel a sense of security when they are
 near this superior person. The teacher must be everything that is
 perfect.
 
-\chapter{社会凝聚力-A society by cohesion凝聚力}}
+## 社会凝聚力-A society by cohesion凝聚力}}
 
 当专注的现象产生后，儿童就变成了新儿童。专注不仅治愈了缺陷，还释放出了一种新的能量，产生了很多活动的新的态度。在7岁左右，另一个新的社会组织开始了：一种轻轻松松就可以适应的社会环境。学校就是一个社会，3岁年龄段的孩子形成了一个有凝聚力的群体。如果孩子在这个年龄拥有发展的自由，成果就会在成年时体现出来。
 
